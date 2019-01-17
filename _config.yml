@@ -39,3 +39,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Sass config
+sass:
+    sass_dir: _sass
