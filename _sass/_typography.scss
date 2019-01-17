@@ -1,1 +1,16 @@
 // Typography styles here
+
+// Work Sans
+$fontFamily: 'Work Sans', sans-serif;
+// Roboto 
+// $fontFamily: 'Roboto', sans-serif;
+// Montserrat
+// $fontFamily: 'Montserrat', sans-serif;
+// Source Sans Pro
+// $fontFamily: 'Source Sans Pro', sans-serif;
+// IBM Plex Sans
+// $fontFamily: 'IBM Plex Sans', sans-serif;
+
+body {
+    font-family: $fontFamily;
+}
