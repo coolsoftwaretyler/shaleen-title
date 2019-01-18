@@ -1,0 +1,11 @@
+.home {
+    &__avatar {
+        background-image: url('/img/linkedin.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 50%;
+        height: 250px;
+        margin-bottom: 3em;
+        width: 250px;
+    }
+}
