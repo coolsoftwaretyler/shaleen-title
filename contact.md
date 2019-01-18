@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Contact
+title: Contact Shaleen
 ---
-Contact Form 
 
-Social
+<a href="https://twitter.com/shaleentitle">Follow Shaleen on twitter</a>.
 
-Follow her on twitter @shaleentitle
-
-Or connect with her on LinkedIn
+<a href="https://www.linkedin.com/in/shaleentitle/">Connect with Shaleen on LinkedIn</a>.       
