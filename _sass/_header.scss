@@ -1,12 +1,21 @@
+.page-link {
+    text-decoration: none;
+    transition: all 0.3s ease-in-out;
+    &:hover {
+        color: $color--accent;
+        text-decoration: none;
+    }
+}
+
 .site-header {
     border-top: none; 
     box-shadow: 3px 3px $color--border;
 }
 
-.page-link {
+.site-title {
     text-decoration: none;
     transition: all 0.3s ease-in-out;
-    &:hover {
+        &:hover {
         color: $color--accent;
         text-decoration: none;
     }

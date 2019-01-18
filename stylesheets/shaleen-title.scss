@@ -1,10 +1,16 @@
 ---
 --- 
+// Base, site-wide styles 
+
 @import "variables";
 @import "base";
 @import "typography";
-@import "header";
 
-// Page styles imports 
+// Component styles 
+
+@import "header";
+@import "footer";
+
+// Page styles  
 
 @import "home";

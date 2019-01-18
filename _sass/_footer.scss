@@ -1,0 +1,10 @@
+.footer {
+    &__link {
+        color: #000;
+        text-decoration: none !important;
+        transition: all 0.3s ease-in-out;
+        &:hover {
+            color: $color--accent;
+        }
+    }
+}
