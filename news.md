@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: News
+title: News about Shaleen
 ---
 <ul>
 <li>August 30, 2017 Rolling Stone named Shaleen one of "<a href="http://www.rollingstone.com/culture/lists/weed-warriors-women-shaping-pot-industry-w500508/shaleen-title-w500510">Six Women Shaping the Cannabis Industry</a>"</li>

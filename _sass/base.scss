@@ -4,6 +4,13 @@ body {
     background: $color--background;
 }
 
+a {
+    color: $color--accent;
+    &:visited {
+        color: $color--accent;
+    }
+}
+
 li {
     margin-bottom: 1em;
 }
