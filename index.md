@@ -7,9 +7,9 @@ layout: page
 <div class="customizerr">
 <label for="font-select">Choose a font:</label>
  <select id="font-select" onchange="customizeFont()">
+  <option value="IBM Plex Sans">IBM Plex Sans</option>
   <option value="Work Sans">Work Sans</option>
   <option value="Roboto">Roboto</option>
-  <option value="IBM Plex Sans">IBM Plex Sans</option>
 </select> 
 <br />
 <label for="color-select">Choose a color:</label>

@@ -5,6 +5,21 @@
 layout: page
 title: News about Shaleen
 ---
+<div class="customizerr">
+<label for="font-select">Choose a font:</label>
+ <select id="font-select" onchange="customizeFont()">
+    <option value="IBM Plex Sans">IBM Plex Sans</option>
+  <option value="Work Sans">Work Sans</option>
+  <option value="Roboto">Roboto</option>
+</select> 
+<br />
+<label for="color-select">Choose a color:</label>
+ <select id="color-select" onchange="customizeColor()">
+  <option value="green">Green</option>
+  <option value="magenta">Magenta</option>
+  <option value="blue">Blue</option>
+</select> 
+</div>
 <ul>
 <li><b>August 30, 2017:</b> Rolling Stone named Shaleen one of "<a href="http://www.rollingstone.com/culture/lists/weed-warriors-women-shaping-pot-industry-w500508/shaleen-title-w500510">Six Women Shaping the Cannabis Industry</a>"</li>
 <li><b>July 31, 2017:</b> Shaleen is the featured guest on the Cannabis Economy <a href="https://twitter.com/canneconomy/status/892083767241830401">podcast</a> with Seth Adler this week.</li>
