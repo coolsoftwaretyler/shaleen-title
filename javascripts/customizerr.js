@@ -32,19 +32,21 @@ function customizeColor() {
         link.classList.add("hover--" + selectedColor);
     }
     for (link of links) {
-        if (link.classList.length < 1) {
-        link.classList.remove("hover--blue");
-        link.classList.remove("hover--green");
-        link.classList.remove("hover--magenta");
-        link.classList.remove("color--blue");
-        link.classList.remove("color--green");
-        link.classList.remove("color--magenta");
-        link.classList.remove("visited--blue");
-        link.classList.remove("visited--green");
-        link.classList.remove("visited--magenta");
-        link.classList.add("color--" + selectedColor);
-        link.classList.add("hover--" + selectedColor);
-        link.classList.add("visited--" + selectedColor);
+        if (link.classList.contains("page-link") || link.classList.contains("site-title") || link.classList.contains("footer__link")) {
         }   
+        else {
+            link.classList.remove("hover--blue");
+            link.classList.remove("hover--green");
+            link.classList.remove("hover--magenta");
+            link.classList.remove("color--blue");
+            link.classList.remove("color--green");
+            link.classList.remove("color--magenta");
+            link.classList.remove("visited--blue");
+            link.classList.remove("visited--green");
+            link.classList.remove("visited--magenta");
+            link.classList.add("color--" + selectedColor);
+            link.classList.add("hover--" + selectedColor);
+            link.classList.add("visited--" + selectedColor);
+        }
     }
 }
