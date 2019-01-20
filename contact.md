@@ -17,6 +17,6 @@ title: Contact Shaleen
   <option value="blue">Blue</option>
 </select> 
 </div>
-<a href="https://twitter.com/shaleentitle">Follow Shaleen on twitter</a>.
+<a href="https://twitter.com/shaleentitle">Follow Shaleen on Twitter</a>.
 
 <a href="https://www.linkedin.com/in/shaleentitle/">Connect with Shaleen on LinkedIn</a>.       
