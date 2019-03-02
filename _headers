@@ -1,7 +1,5 @@
 /* 
-    # Block site from being framed with X-Frame-Options and CSP
-    Content-Security-Policy: frame-ancestors 'none'
-    X-Frame-Options: DENY
+    Content-Security-Policy: default-src 'none'; frame-ancestors 'none'; img-src 'self'; script-src 'self'; style-src 'self'
     X-Content-Type-Options: nosniff
-    Content-Security-Policy: default-src 'none'; img-src 'self'; script-src 'self'; style-src 'self'
+    X-Frame-Options: DENY
     X-XSS-Protection: 1; mode=block
