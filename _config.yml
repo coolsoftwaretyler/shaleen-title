@@ -18,7 +18,7 @@ title: Shaleen Title | Attorney & Speaker
 description: >- # this means to ignore newlines until "baseurl:"
   Learn More about Shaleen Title
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://shaleentitle.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://shaleentitle.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: https://twitter.com/shaleentitle
 github_username:  ogdenstudios
 

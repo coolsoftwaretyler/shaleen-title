@@ -1,0 +1,8 @@
+# Don't load any resource type not explicitly enabled
+# Disable plugins like Flash or Silverlight
+ # Load images, scripts, stylesheets and fonts from self
+    Content-Security-Policy: default-src 'none'; 
+    object-src 'none'; 
+    img-src 'self'; 
+    script-src 'self'; 
+    style-src 'self'; 
