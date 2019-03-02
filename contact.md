@@ -8,4 +8,4 @@ For speaking requests or press inquiries, please either send a direct message or
 
 For meeting requests, please only contact me through the [Cannabis Control Commission](https://mass-cannabis-control.com/contact/).
 
-Please note I am not permitted to accept honoraria
+Please note I am not permitted to accept honoraria.
