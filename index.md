@@ -6,7 +6,7 @@ layout: page
 ---
 <div class="home__intro">
 <div class="home__avatar"></div>
-<p>“I have been appointed by the Massachusetts governor, treasurer, and attorney general to serve on the Cannabis Control Commission to honor the will of the voters and implement the marijuana law here in the commonwealth. I  am no longer associated with any cannabis businesses or organizations, and I will not be updating this website during my term, but you can reach me at my state email or on Twitter. Thanks for all of your good wishes!”</p>
+<p>As of September 1, 2017, I have been appointed by the Massachusetts governor, treasurer, and attorney general to serve on the Cannabis Control Commission to honor the will of the voters and implement the marijuana law here in the commonwealth. I  am no longer associated with any cannabis businesses or organizations, and I will rarely be updating this website during my term, but you can reach me at my state email or on Twitter. Thanks for all of your good wishes!</p>
 </div>
 Shaleen Title is a co-founder of THC Staffing Group, a cannabis recruiting firm focused on equality and inclusion. As an attorney specializing in marijuana regulations, she has provided regulatory expertise for leading marijuana consulting firms including 4Front Advisors and Vicente Sederberg. She co-authored the Massachusetts marijuana legalization referendum and has consulted on state and local marijuana policy around the country. 
 
