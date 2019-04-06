@@ -23,7 +23,7 @@ twitter_username: https://twitter.com/shaleentitle
 github_username:  ogdenstudios
 
 # Build settings
-include: ["_headers"]
+include: ["_headers", "_redirects"]
 markdown: kramdown
 theme: minima
 plugins:
