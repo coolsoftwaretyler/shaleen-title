@@ -6,7 +6,7 @@ description: I was supposed to be on Greater Boston today, which is my favorite 
 
 I was supposed to be on Greater Boston today, which is my favorite TV show to go on, but unfortunately my son's school called and said he had a 102 fever (!). He's fine now, but since I didn't get to go on the show and share some very important updates, I am sharing them here instead.
 
-First, we are seeking [vendors to provide technical assistance](https://www.commbuys.com/bso/external/bidDetail.sdo?docId=BD-19-2018-CNB-CNB-36005&external=true&parentUrl=bid) for our [Social Equity Program](https://mass-cannabis-control.com/equityprograms-2/). Do you know anyone with specific expertise in cannabis or cannabis licensing or training small businesses? Please encourage them to apply. If you click on the last file attachment, "Request for Responses Social Equity Program Materials and Services," you can get a sense of what the curriculum looks like:
+First, we are seeking [vendors to provide technical assistance](https://www.commbuys.com/bso/external/bidDetail.sdo?docId=BD-19-2018-CNB-CNB-36005&external=true&parentUrl=bid) for our [Social Equity Program](https://mass-cannabis-control.com/equityprograms-2/). Do you know anyone with specific expertise in cannabis or cannabis licensing or training small businesses? Please encourage them to apply. If you click on the last file attachment, "Request for Responses Social Equity Program Materials and Services," you can get a sense of what the curriculum looks like.
 
 The applications for participants in the program are also available on our website. I am excited to personally teach Resume Writing for the initial sessions.
 
