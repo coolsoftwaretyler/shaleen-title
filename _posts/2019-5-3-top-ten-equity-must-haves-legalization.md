@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: post
 title: Top 10 Equity Must-Haves in Any Legalization Bill 
 description: As promised, I am sharing my top ten equity must-haves for any state cannabis legalization bill. I rewrite these every time I give a speech in another state, because every day I learn more and they evolve.
