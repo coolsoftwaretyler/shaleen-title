@@ -7,14 +7,12 @@ sections:
 - type: document
   path: _data/awards.yml
   label: Awards
-  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
 - type: document
   path: _data/news.yml
   label: News
-  match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all
