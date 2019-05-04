@@ -4,7 +4,7 @@ title: Top 10 Equity Must-Haves in Any Legalization Bill
 description: As promised, I am sharing my top ten equity must-haves for any state cannabis legalization bill. I rewrite these every time I give a speech in another state, because every day I learn more and they evolve.
 ---
 
-![Image from the CT General Assembly Commission on Equity and Opportunity](img/event-picture-2019.jpg)
+![Image from the CT General Assembly Commission on Equity and Opportunity](/img/event-picture-2019.jpg)
 
 *Originally shared with the Connecticut General Assembly Commission on Equity and Opportunity.*
 
