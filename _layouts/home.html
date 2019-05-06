@@ -6,7 +6,7 @@ layout: default
 <h1>Awards</h1>
 <ul>
     {% for item in site.data.awards %}
-    <li><b>{{ item.date }}:</b> {{ item.description }}</li>
+    <li {% if item.highlighted %} class="award__highlighted" {% endif %}><b>{{ item.date }}:</b> {{ item.description }}</li>
     {% endfor %}
 </ul>
 <h1>Media hits</h1>
