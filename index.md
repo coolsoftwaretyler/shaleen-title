@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Shaleen Title
+title: Home
+
 ---
 <div class="home__intro">
 <div class="home__avatar"></div>
@@ -12,4 +13,4 @@ Previously, she co-founded THC Staffing, a cannabis recruiting firm focused on e
 
 In her role as a founding board member of the Minority Cannabis Business Association, Shaleen led the creation of the MCBA Model Bill, the first state-level model bill created to give states guidance to implement a process of reinvestment and reconciliation. She also served as a trustee for Students for Sensible Drug Policy, a founding board member of Marijuana Majority, and a board member of the Family Law and Cannabis Alliance as well as the National Lawyers Guild. 
 
-Shaleen's previous awards include the Hunter S. Thompson Young Attorney Award, High Times Freedom Fighter Award, and Students for Sensible Drug Policy Lifetime Achievement Award. She holds a business degree, law degree, and graduate degree in accounting from the University of Illinois and was previously a part of the multistate tax group at Deloitte Tax. She lives in the Boston area. 
+Shaleen's previous awards include the Hunter S. Thompson Young Attorney Award, High Times Freedom Fighter Award, and Students for Sensible Drug Policy Lifetime Achievement Award. She holds a business degree, law degree, and graduate degree in accounting from the University of Illinois and was previously a part of the multistate tax group at Deloitte Tax. She lives in the Boston area.
