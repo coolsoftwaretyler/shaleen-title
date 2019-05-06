@@ -1,6 +1,26 @@
 ---
+- date: 2019
+  description: Boston Magazine Rising Star
+  highlighted: true
+- date: 2019
+  description: Exhale Lifestyle Magazine Women to Watch
+  highlighted: false
+- date: 2019 
+  description: North American Cannabis Convention Champion in Diversity and Inclusion
+  highlighted: false
+- date: 2019 
+  description: The Young Jurks Best Cannabis Guest
+  highlighted: false
+- date: 2018 
+  description: Boston Business Journal 50 Most Powerful People
+  highlighted: true 
+- date: 2017 
+  description: Students for Sensible Drug Policy Award for Lifetime Achievement in Drug Policy 
+  highlighted: false
 - date: April 17, 2016
   description: Students for Sensible Drug Policy Outstanding Alumnus in Service to
     Drug Policy Reform award
+  highlighted: false
 - date: September 1, 2012
   description: High Times Freedom Fighter award
+  highlighted: false
