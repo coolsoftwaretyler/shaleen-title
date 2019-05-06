@@ -10,6 +10,11 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+- type: directory
+  path: _news
+  label: News
+  create: all
+  match: "**/*"
 - type: document
   path: _data/awards.yml
   label: Awards
