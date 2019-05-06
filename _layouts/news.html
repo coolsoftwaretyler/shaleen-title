@@ -1,15 +1,29 @@
---- 
-layout: default 
+---
+layout: default
 ---
 <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
 </header>
-<article class="post">
-    <ul>
-    {% for item in site.data.news %}
-        <li><b>{{ item.date }}:</b> {{ item.description }}</li>
-    {% endfor %}
+<div class="blog">
+	{{ content }} 
+    {%- if site.news.size > 0 -%}
+    <ul class="post-list">
+        {%- for post in site.news -%}
+        {%- unless post.category -%}
+        <li>
+            {%- assign date_format = "%b %-d, %Y" -%}
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+            <h3>
+                <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }} {{ post.category}}
+            </a>
+            </h3>
+            {%- if site.show_excerpts -%} {{ post.excerpt }} {%- endif -%}
+        </li>
+        {%- endunless -%}
+        {%- endfor -%}
     </ul>
-</article>
+    {%- endif -%}
+</div>
 
 

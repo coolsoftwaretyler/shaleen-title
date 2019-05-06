@@ -1,0 +1,17 @@
+---
+layout: default
+---
+{{ content }}
+
+<h1>Awards</h1>
+<ul>
+    {% for item in site.data.awards %}
+    <li><b>{{ item.date }}:</b> {{ item.description }}</li>
+    {% endfor %}
+</ul>
+<h1>Media hits</h1>
+<ul>
+    {% for item in site.data.media %}
+    <li><b>{{ item.date }}:</b> {{ item.description }}</li>
+    {% endfor %}
+</ul>
