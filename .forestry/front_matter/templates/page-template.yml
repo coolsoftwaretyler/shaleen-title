@@ -18,3 +18,5 @@ fields:
     - page
   name: layout
   label: Layout
+pages:
+- test-page.md
