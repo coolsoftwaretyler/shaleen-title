@@ -26,6 +26,10 @@ github_username:  ogdenstudios
 collections: 
   news: 
     output: true
+feed: 
+  path: /feed/blog.xml
+  collections: 
+    - news
 include: ["_headers", "_redirects"]
 markdown: kramdown
 theme: minima
