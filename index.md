@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Shaleen Title
 ---
 <div class="home__intro">
 <div class="home__avatar"></div>
