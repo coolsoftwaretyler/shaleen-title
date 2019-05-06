@@ -1,6 +1,7 @@
 ---
 title: 'Update from testing '
-layout: ''
+layout: post
+description: asdfasdf
 
 ---
 Here's an update. 

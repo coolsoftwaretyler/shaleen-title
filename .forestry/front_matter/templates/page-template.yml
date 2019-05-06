@@ -19,5 +19,4 @@ fields:
   name: layout
   label: Layout
 pages:
-- _news/update-from-testing.md
 - test-page.md
