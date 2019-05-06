@@ -1,4 +1,5 @@
 ---
 layout: news
-title: News about Shaleen
+title: News
+
 ---
