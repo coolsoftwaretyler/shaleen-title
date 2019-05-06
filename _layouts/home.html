@@ -12,6 +12,6 @@ layout: default
 <h1>Media hits</h1>
 <ul>
     {% for item in site.data.media %}
-    <li><b>{{ item.date }}:</b> {{ item.description }} <a href="{{ item.link}}">Read more</a>.</li>
+    <li><b>{{ item.date }}:</b> {{ item.description }} {% if item.link %}<a href="{{ item.link}}">Read more</a>.{% endif%}</li>
     {% endfor %}
 </ul>
