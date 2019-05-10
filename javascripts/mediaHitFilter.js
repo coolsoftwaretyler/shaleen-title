@@ -6,7 +6,7 @@ var mediaHits = document.getElementsByClassName("mediaHit");
 for (i=0;i<mediaHits.length;i++) {
     var mediaHitDate = new Date(mediaHits[i].dataset.date).toISOString()
     var mediaHitYear = mediaHitDate.split('-')[0];
-    if (mediaHitYear < currentYear - 2 ) {
+    if (mediaHitYear < currentYear - 1 ) {
         mediaHits[i].style.display = 'none';
     }
 }
