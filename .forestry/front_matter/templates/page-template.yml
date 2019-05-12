@@ -24,5 +24,3 @@ fields:
   config:
     required: false
   label: Description
-pages:
-- test-page-title.md
