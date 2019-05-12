@@ -12,5 +12,3 @@ fields:
 - type: textarea
   name: description
   label: description
-pages:
-- _posts/new-post.md
