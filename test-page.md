@@ -2,7 +2,6 @@
 title: 'Test page '
 layout: page
 description: Test page description
-published: false
 
 ---
 This would be the content for the page. Use the rich text editor to add **bolded items**, _italics_, [links](https://google.com "links"), or lists that might look like:
