@@ -12,3 +12,5 @@ fields:
   name: layout
   label: layout
   default: post
+pages:
+- _news/news-post.md
