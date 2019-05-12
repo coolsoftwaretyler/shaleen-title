@@ -19,7 +19,7 @@ sections:
   path: _data/awards.yml
   label: Awards
 - type: document
-  path: _data/media.yml
+  path: _data/media_hits.yml
   label: Media Hits
 upload_dir: uploads
 public_path: "/uploads"
