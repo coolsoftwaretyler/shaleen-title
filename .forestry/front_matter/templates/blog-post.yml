@@ -12,3 +12,5 @@ fields:
 - type: textarea
   name: description
   label: description
+pages:
+- _posts/2019-05-12-new-blog-post.md
