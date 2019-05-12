@@ -4,8 +4,7 @@ var currentYear = isoString.split('-')[0]
 var mediaHits = document.getElementsByClassName("mediaHit");
 
 for (i=0;i<mediaHits.length;i++) {
-    var mediaHitDate = new Date(mediaHits[i].dataset.date).toISOString()
-    var mediaHitYear = mediaHitDate.split('-')[0];
+    var mediaHitYear = mediaHits[i].dataset.year;
     if (mediaHitYear < currentYear - 2 ) {
         mediaHits[i].style.display = 'none';
     }
