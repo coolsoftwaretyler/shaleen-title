@@ -1,11 +1,10 @@
 ---
 layout: home
-title: Home
-squareText: As of September 1, 2017, I have been appointed by the Massachusetts governor, treasurer, and attorney general to serve on the Cannabis Control Commission to honor the will of the voters and implement the marijuana law here in the commonwealth. I am no longer associated with any cannabis businesses or organizations, and I will primarily be using this website for news and opinion updates from my own personal perspective.
+title: Home 
 ---
 <div class="home__intro">
 <div class="home__avatar"></div>
-<p>{{page.squareText}}</p>
+<p>As of September 1, 2017, I have been appointed by the Massachusetts governor, treasurer, and attorney general to serve on the Cannabis Control Commission to honor the will of the voters and implement the marijuana law here in the commonwealth. I am no longer associated with any cannabis businesses or organizations, and I will primarily be using this website for news and opinion updates from my own personal perspective.</p>
 </div>
 Shaleen Title is an Indian-American drug policy activist and attorney who currently serves as one of five commissioners on the Massachusetts Cannabis Control Commission, the agency tasked with regulating legal and medical marijuana in the commonwealth. Named to the Boston Business Journal’s 2018 list of the 50 most powerful people in Boston, she has won several awards for her advocacy work and her efforts to bring more women and people of color into drug policy reform and the cannabis industry.
 
