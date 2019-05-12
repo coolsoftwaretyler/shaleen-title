@@ -4,4 +4,4 @@ title: New blog post
 description: Blog post description
 
 ---
-Blog post content. 
+Edit the content.
