@@ -1,4 +1,7 @@
 ---
+- award_description: Boston Business Journal 50 Most Powerful People
+  date: 2018
+  highlighted: ''
 - award_description: Boston Magazine Power List
   date: 2019
   highlighted: false
@@ -19,9 +22,6 @@
   highlighted: false
 - award_description: North American Cannabis Summit Keynote Speaker
   date: 2019
-  highlighted: false
-- award_description: Boston Business Journal 50 Most Powerful People
-  date: 2018
   highlighted: false
 - award_description: Students for Sensible Drug Policy Award for Lifetime Achievement
     in Drug Policy
