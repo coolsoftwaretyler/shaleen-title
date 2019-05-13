@@ -3,7 +3,7 @@ layout: default
 ---
 {{ content }}
 
-<h1>Awards</h1>
+<h1>Selected Honors and Awards</h1>
 <ul>
     {% for item in site.data.awards %}
     <li {% if item.highlighted %} class="award--highlighted" {% endif %}><b>{{ item.date }}:</b> {{ item.award_description }}</li>
