@@ -2,9 +2,6 @@
 - award_description: Boston Magazine Power List
   date: 2019
   highlighted: false
-- award_description: Exhale Lifestyle Magazine Women to Watch
-  date: 2019
-  highlighted: false
 - award_description: New England Cannabis Convention Champion in Diversity and Inclusion
   date: 2019
   highlighted: false
@@ -29,7 +26,7 @@
 - award_description: Students for Sensible Drug Policy Award for Lifetime Achievement
     in Drug Policy
   date: 2017
-  highlighted: false
+  highlighted: true
 - award_description: Roxbury Epicenter Community Woman Crush Wednesday
   date: 2017
   highlighted: false
