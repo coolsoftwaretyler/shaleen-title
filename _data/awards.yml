@@ -1,7 +1,7 @@
 ---
 - award_description: Worcester Business Journal 2019 Power 50
   date: "2019"
-  highlighted: ''
+  highlighted: false
 - award_description: 'Boston Magazine Power List 2019: The Powers That Will Be'
   date: "2019"
   highlighted: false
