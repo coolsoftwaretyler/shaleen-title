@@ -12,3 +12,5 @@ fields:
 - type: textarea
   name: description
   label: description
+pages:
+- _posts/recap-of-ccc-6-25-meeting.md
