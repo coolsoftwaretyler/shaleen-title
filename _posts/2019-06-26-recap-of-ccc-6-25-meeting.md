@@ -4,7 +4,7 @@ title: Recap of CCC 6/25 Meeting
 description: ''
 
 ---
-Today was a marathon meeting! There are several [good](https://www.bostonglobe.com/news/marijuana/2019/06/25/regulators-inch-closer-approving-marijuana-delivery-cafes/IEpPSc4a0Sf8P9yyvNi9QI/story.html) [articles](https://www.masslive.com/news/2019/06/surveillance-home-delivery-product-bans-massachusetts-marijuana-regulators-grapple-with-tough-issues-as-they-rewrite-rules.html) [up](https://www.gloucestertimes.com/news/local_news/ccc-poised-to-release-updated-pot-sale-rules/article_b1f86053-b379-5823-9f23-cf126a0e6848.html) [already](https://www.boston25news.com/news/cannabis-cafes-are-coming-to-massachusetts/961416299). I thought it would be a good time to do an old-fashioned blog post laying out the key takeaways from today's discussion. Although it became heated at certain points, those were largely inconsequential and as far as the major policy decisions were concerned, I'm proud of the discussion we had today and the collaborative result. For full context, you can find the livestream on the [Massachusetts Cannabis Control Commission Facebook page](https://m.facebook.com/Massachusetts-Cannabis-Control-Commission-2085850278302810/).
+Today was a marathon meeting! There are several [good](https://www.bostonglobe.com/news/marijuana/2019/06/25/regulators-inch-closer-approving-marijuana-delivery-cafes/IEpPSc4a0Sf8P9yyvNi9QI/story.html) [articles](https://www.masslive.com/news/2019/06/surveillance-home-delivery-product-bans-massachusetts-marijuana-regulators-grapple-with-tough-issues-as-they-rewrite-rules.html) [up](https://www.gloucestertimes.com/news/local_news/ccc-poised-to-release-updated-pot-sale-rules/article_b1f86053-b379-5823-9f23-cf126a0e6848.html) [already](https://www.boston25news.com/news/cannabis-cafes-are-coming-to-massachusetts/961416299). I thought it would be a good time to do an old-fashioned blog post laying out the key takeaways from today's discussion. Although it became heated at certain points, those points were largely inconsequential and as far as the major policy decisions were concerned, I'm proud of the discussion we had today and the collaborative result. I think we all got to something we can live with. For full context, you can find the livestream on the [Massachusetts Cannabis Control Commission Facebook page](https://m.facebook.com/Massachusetts-Cannabis-Control-Commission-2085850278302810/).
 
 We went through the following policy areas in detail, working from excerpts of the draft regulations. These excerpts we discussed will be public shortly, if they aren't already. The full set of draft regulations will be discussed at our next meeting this Thursday June 27 (see [MassCannabisControl.com](https://mass-cannabis-control.com/) for info). That draft will be open for public comment, subject to changes based on that comment, and then finalized.
 
@@ -25,7 +25,7 @@ What passed today is a very incremental approach to home delivery, but a major w
 
 Some important takeaways:
 
-1. To be viable over the long run, these businesses will eventually need the ability to be able to either purchase wholesale or cultivate/process their own product. The Commission has agreed to consider allowing microbusinesses to deliver their own product in our next round of regulations. I expect this an important topic for public comment.
+1. To be viable over the long run, these businesses will eventually need the ability to be able to either purchase wholesale or cultivate/process their own product. The Commission has agreed to consider allowing microbusinesses to deliver their own product in our next round of regulations. I expect this to be an important topic for public comment.
 2. I am extremely concerned about the requirement that agents wear body cameras. There's no justification for such an invasion of privacy, especially when the subjects of that government-mandated corporate surveillance are standing in their own homes. However, I lost this vote.
 3. There are questions about where deliveries can occur. I'm not sure we can legally prevent individuals from receiving a delivery of a legal product. Others felt that delivery businesses should only be able to deliver within the municipality that they are located. Ultimately, we compromised on a policy that if a city or town allows retailers to be licensed, then residents there may receive deliveries from any delivery business. I will be interested to see the public comment we receive on this.
 
@@ -51,7 +51,7 @@ Removal of product refers to the authority and process for the Commission to req
 
 I was able to add some common-sense language further clarifying that the process would be evidence-based and relative to a consistent standard. The removal could apply to specific types of products, or specific brands.
 
-For reasons I find obvious, I moved to remove this section listing "categories of product types" the removal could additionally apply to:
+But, for reasons I find obvious, I moved to remove this section listing "categories of product types" the removal could additionally apply to:
 
 "A type of product including but not limited to marijuana seeds, marijuana clones, marijuana edibles, beverages, topical products, ointments, oils, tinctures, oral dosage forms or any other product identified by the Commission or its delegees."
 
