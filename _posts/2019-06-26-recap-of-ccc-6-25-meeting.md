@@ -21,7 +21,7 @@ Two important clarifications I made:
 
 **Delivery (Adult-Use)**
 
-What passed today is a very incremental approach to home delivery, but a major win for equity. Delivery-only retailers can deliver products from retailers to consumers. These licenses will be exclusively for Social Equity Program Participants and Economic Empowerment Applicants for at least 24 months. I am very proud of this exclusivity, we've been fighting for it since February 2017. 
+What passed today is a very incremental approach to home delivery, but a major win for equity. Delivery-only retailers can deliver products from retailers to consumers. These licenses will be exclusively for Social Equity Program Participants and Economic Empowerment Applicants for at least 24 months. I am very proud of this exclusivity, we've been fighting for it since February 2017.
 
 Some important takeaways:
 
@@ -49,7 +49,7 @@ In my capacity as the commissioner focused on social justice, I have some MAJOR 
 
 Removal of product refers to the authority and process for the Commission to require businesses to remove products. The scope of the removal can vary based on the risk. I would characterize this as a totally sensible policy, in theory. It creates a process by which the Commission could remove a category of products that are causing problems, particularly regarding attractiveness to children. I envisioned, for example, cake pops causing emergency room visits. Another commissioner suggested flavored vape cartridges. In any such case, this process would create a mechanism to evaluate data and determine whether there is sufficient evidence that the product was a substantial risk to public health and safety.
 
-I was able to add some common-sense language further clarifying that the process would be evidence-based and relative to a consistent standard. The removal could apply to specific types of products, or specific brands. 
+I was able to add some common-sense language further clarifying that the process would be evidence-based and relative to a consistent standard. The removal could apply to specific types of products, or specific brands.
 
 For reasons I find obvious, I moved to remove this section listing "categories of product types" the removal could additionally apply to:
 
@@ -57,7 +57,7 @@ For reasons I find obvious, I moved to remove this section listing "categories o
 
 My motion to remove it in its entirety failed 4-1, but my motion to remove marijuana seeds and marijuana clones from the list passed.
 
-7. Pre-Certification
+**Pre-Certification**
 
 This wasn't a specific agenda item today, but it's incredibly important and I want to highlight it. For social consumption, we created a "pre-certification" process that would allow applicants to be vetted by the Commission as having a propensity to successfully operate a business, through things like a business plan, initial background check, and policies and procedures. They would then receive a pre-certification to use as a form of credibility when attempting to work with municipalities, investors, and landlords. The most difficult parts of the application -- host community agreement, proof of capital, and proof of a property interest -- would be left for the end of the application. It sounds bureaucratic and uninteresting, but I believe that this will have a large and measurable impact for equity. Between this, exclusivity, the technical assistance we are offering, and (cross your fingers) an interest-free loan fund of the type offered by Senator Chang-Diaz, this is a viable pathway for small businesses.
 
