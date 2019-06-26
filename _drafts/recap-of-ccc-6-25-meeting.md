@@ -16,8 +16,8 @@ I would generally characterize the changes we made today as making the limitatio
 
 Two important clarifications I made:
 
-* There is a bulleted list of what consitutes a person or entity "having rights to control." I proposed adding before the list, "including but not limited to" so that we can consider other new forms of control that may come up. This passed.
-* I suggested that a license belonging to a marijuana establishment will be void if the company makes a transfer of ownership or control that requires Commission approval. This passed.
+1. There is a bulleted list of what consitutes a person or entity "having rights to control." I proposed adding before the list, "including but not limited to" so that we can consider other new forms of control that may come up. This passed.
+2. I suggested that a license belonging to a marijuana establishment will be void if the company makes a transfer of ownership or control that requires Commission approval. This passed.
 
 **Delivery (Adult-Use)**
 
