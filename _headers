@@ -1,5 +1,5 @@
 /* 
-    Content-Security-Policy: default-src 'none'; frame-ancestors 'none'; img-src 'self'; script-src 'self'; style-src 'self'
+    Content-Security-Policy: default-src 'none'; frame-ancestors 'none'; img-src 'self' https://www.google-analytics.com; script-src 'self' 'unsafe-eval' 'unsafe-inline' https://www.google-analytics.com/analytics.js https://www.googletagmanager.com/gtag/js; style-src 'self'
     Referrer-Policy: same-origin
     X-Content-Type-Options: nosniff
     X-Frame-Options: DENY
