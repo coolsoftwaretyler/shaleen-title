@@ -30,7 +30,7 @@ feed:
   path: /feed/blog.xml
   collections: 
     - news
-include: ["_headers", "_redirects"]
+include: ["_redirects"]
 markdown: kramdown
 theme: minima
 plugins:
