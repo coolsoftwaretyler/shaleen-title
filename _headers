@@ -6,4 +6,4 @@
     X-XSS-Protection: 1; mode=block
 /testimony 
     Content-Type: application/pdf
-    Content-Disposition: inline;
+    Content-Disposition: inline; filename=testimony.pdf
