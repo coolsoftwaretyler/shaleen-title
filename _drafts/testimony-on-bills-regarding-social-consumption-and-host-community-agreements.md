@@ -19,7 +19,9 @@ Along with Chairman Hoffman, I spent several months working collaboratively with
 
 Some of the key issues discussed by the committee include preventing underage access, preventing impaired driving, a strong focus on staff training to detect impairment and minimize overserving, ensuring consumers are adequately educated to minimize overconsumption, and ensuring that employees are protected from secondhand smoke.
 
-Our group’s memo is attached. The Commission voted to include social consumption regulations in its draft regulations published July 2, 2019. As noted in the working group’s memo and in the Commission meeting minutes, no part of the pilot program will be able to move forward unless a legislative change is made to clarify how municipalities may permit on-site consumption. Support of S. 1126 and H. 3536
+Our group’s memo is attached. The Commission voted to include social consumption regulations in its draft regulations published July 2, 2019. As noted in the working group’s memo and in the Commission meeting minutes, no part of the pilot program will be able to move forward unless a legislative change is made to clarify how municipalities may permit on-site consumption. 
+
+## Support of S. 1126 and H. 3536
 
 On January 10, 2019, the Commission voted to seek statutory authorization to review and regulate host community agreements. S. 1126 would address this. From my perspective as commissioner appointed for expertise in social justice, the lack of enforcement of the legal limitations of host community agreements is a major barrier to entry for small businesses.
 
