@@ -7,15 +7,13 @@ description: 'Submitted by: Shaleen Title, Commissioner Massachusetts Cannabis C
 ---
 _This document has been formatted for web. To view and/or download the original PDF, visit_ [https://www.shaleentitle.com/testimony.pdf](https://www.shaleentitle.com/testimony.pdf "https://www.shaleentitle.com/testimony.pdf")
 
-Testimony on Bills Regarding Social Consumption and Host Community Agreements Monday, July 29, 2019, 10:00am, State House Room A-2
-
 Submitted by: Shaleen Title, Commissioner Massachusetts Cannabis Control Commission 101 Federal Street 13th Floor Boston, MA 02110
 
 Dear Chair Chang-Diaz, Chair Rogers, and members of the Joint Committee on Cannabis Policy:
 
 I am writing in support of S. 1125 and H. 3541, to allow municipalities to participate in the social consumption pilot program, in support of S. 1126 and H. 3536, to ensure fairness and consistency for cannabis businesses seeking local approval, and in opposition to H. 3598, which allows municipalities to demand additional payments from businesses beyond the 3% local tax without justification.
 
-**Support of S. 1125 and H. 3541**
+## Support of S. 1125 and H. 3541
 
 Along with Chairman Hoffman, I spent several months working collaboratively with a group of municipal officials with wide-ranging expertise from across the Commonwealth to examine concerns and create a framework for a social consumption pilot program. This would allow patients and consumers, especially those who cannot consume cannabis in their homes, to access a regulated environment where on-site consumption would be permitted.
 
@@ -29,17 +27,17 @@ Specifically, Section 3(d) of M. G. L. c. 94G requires that the community impact
 
 Unfortunately, these additional payments are not in fact voluntary, as the applicants who cannot afford them are turned away by the municipalities and therefore unable to apply for a state license. In an industry in which traditional banking and loans are not available, this further favors the well-capitalized and well-resourced. H. 3536 would address this.
 
-**Opposition to H. 3598**
+## Opposition to H. 3598
 
 A community impact fee is optional and separate from the local tax. It is meant to compensate the municipality for any actual and anticipated “reasonably related” expenses resulting from the operation of the business. Such expenses could include, for example, traffic or environmental impact studies, public safety personnel overtime costs where higher congestion or crowds are anticipated, or municipal inspection costs.
 
 Removing the requirement to justify the community impact fee as “reasonably related” to the costs imposed upon the municipality would change the fee to simply become a revenue generator for municipalities. It would exclude the businesses who couldn’t afford it from participating in the industry.
 
-**Conclusion**
+## Conclusion
 
 Thank you for the opportunity to provide this testimony in support of discretion for municipalities to decide whether they would like to participate in the social consumption pilot program, and in support of businesses to be treated fairly with respect to the community impact fees they pay. Please don’t hesitate to contact me if I can provide any additional information.
 
-May 10, 2019 
+## May 10, 2019
 
 Dear Mr. Collins,
 
@@ -47,19 +45,19 @@ For your consideration, our working group has collaboratively established a fram
 
 It is important to note that no part of this program will be able to move forward unless a legislative change is made to allow municipalities to permit on-site consumption, as explained in the Legislative Authority section below.
 
-**Process and Timeline**
+## Process and Timeline
 
 In addition to our own wide-ranging expertise as local and state officials from throughout the Commonwealth, to create this framework we examined recent feedback from experts including the Cannabis Advisory Board, the Massachusetts Municipal Association Policy Committee on Municipal and Regional Administration, as well as the Commission’s Director of Research, Director of Licensing, and Chief of Investigations and Enforcement.
 
 We also examined concerns previously expressed by commissioners and consulted with other officials in our communities and other communities as appropriate. Additionally, we examined relevant regulations in other states and municipalities that license businesses allowing on-site consumption of cannabis, including Alaska’s regulations 3 AAC 306.370 which went into effect April 11, 2019.
 
-**Recommendation**
+## Recommendation
 
 In summary, our recommendation is for the Commission to implement a pilot program licensing **primary use social consumption establishments** (cannabis cafes) and **event host licenses** (events open to the public). The program will be open to a maximum of twelve municipalities, each of which may implement its own cap on each type of license. The twelve municipalities will consist of the five communities in the working group, if they choose to participate, and other municipalities who choose to participate in the pilot program. If more than twelve municipalities wish to participate, the Commission will select communities based on socioeconomic, size, and geographic diversity.
 
 The primary attributes of the pilot program are: a limited number of participating communities; licenses for groups that have thus far been locked out of the legal cannabis industry; stringent application and operational requirements; a strong focus on staff training; and robust data collection by both businesses and state and local regulators.
 
-**Key Issues**
+## Key Issues
 
 _Preventing underage access_. No one under 21 may access the premises of an on-site consumption establishment. If permitted by local regulation, municipalities may allow outdoor event hosts to designate an area for on-site consumption. All licensees must have an adequate plan to ensure that no one under 21 will be allowed into an on-site consumption area.
 
@@ -81,13 +79,13 @@ Furthermore, our group recommends adopting a modified form of the rules governin
 
 Understanding that municipalities have taken a variety of approaches to regulate vaping, including that many current ordinances or regulations prohibit indoor vaping, some cities or towns may wish to participate in the pilot program by only allowing for outdoor events.
 
-**Legislative Authority**
+## Legislative Authority
 
 Marijuana establishments are licensed by the Commission. Under G. L. c. 94G, § 4(b)(1), the Commission has the authority to license “the consumption of marijuana or marijuana products on the premises where sold.” G. L. c. 94G, § 3(b) outlines a process for voters in a city or town to authorize “the sale of marijuana and marijuana products for consumption on the premises where sold.”
 
 However, as interpreted by the Secretary of the Commonwealth, G. L. c. 94G, § 3(b) does not provide a mechanism for that process. Fortunately, multiple bills such as H3541 and S1125 have been filed to correct this issue and allow cities and towns to permit marijuana establishments to allow on-site consumption. **This pilot program will only be able to move forward if one of those bills passes**.
 
-**Licensing**
+## Licensing
 
 A primary goal of the pilot program is to promote and encourage the groups that have thus far been unable to meaningfully participate in the legal cannabis industry, despite the requirement for the Commission to ensure such participation in § 77(a) of Chapter 55 of the Acts of 2017.
 
@@ -97,14 +95,14 @@ As the Commission explores the ability to create a preliminary evaluation proces
 
 There are six steps to the process, each of which are part of the existing licensing process for other marijuana establishments:
 
-1. The first step, Commission precertification, consists of the Application of Intent, Background Check, and the Management and Operations Profile, including new requirements specific to social consumption. 
-2. The second step consists of local approval as required under G. L. c. 94G, § 3, including noise mitigation plans, odor mitigation plans, and an examination of any outdoor smoking provisions, 
-3. The third step entails a Commission review of compliance with requirements for a location and a legal interest in the property, documentation of capital, and confirmation of a host community agreement and compliance with local laws. The rationale for moving these items to a later step is to allow for precertification to be used in obtaining capital, location, and a host community agreement. 
-4. The fourth step consists of final inspections as determined by Commission staff. 
+1. The first step, Commission precertification, consists of the Application of Intent, Background Check, and the Management and Operations Profile, including new requirements specific to social consumption.
+2. The second step consists of local approval as required under G. L. c. 94G, § 3, including noise mitigation plans, odor mitigation plans, and an examination of any outdoor smoking provisions,
+3. The third step entails a Commission review of compliance with requirements for a location and a legal interest in the property, documentation of capital, and confirmation of a host community agreement and compliance with local laws. The rationale for moving these items to a later step is to allow for precertification to be used in obtaining capital, location, and a host community agreement.
+4. The fourth step consists of final inspections as determined by Commission staff.
 5. The fifth step is a final license issued by the Commission
 6. After Commission staff has conducted an inspection to ensure that the inventory has been accurately entered into METRC tracking system and that other conditions of the final license, if any, have been met, Commission staff will issue an order allowing for the commencement of operations.
 
-**Data Collection**
+## Data Collection
 
 A pilot program provides an opportunity to closely monitor any unforeseen challenges and ensure that adequate resources are available and agencies are well-prepared for any issues that may come up in wider implementation. In that spirit, a cornerstone of this pilot program is the robust collection and analysis of data in multiple areas, to be designed and overseen by the Commission’s Research department.
 
