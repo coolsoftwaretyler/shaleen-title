@@ -4,7 +4,7 @@ title: Recap of 8/14 and 8/15 Hearings
 description: ''
 
 ---
-Along with my fellow commissioners, I spent the past two days in  Boston and Springfield hearings taking public input on the CCC's latest draft of regulations. The meetings were open to the public, and full video stream of the hearings are available on the Massachusetts Cannabis Control Commission Facebook page. There was a lot of testimony, but some very clear themes emerged throughout the hearings. I felt a palpable sense of frustration, but also trust in us and our willingness to listen, which I appreciate.
+Along with my fellow commissioners, I spent the past two days in  Boston and Springfield hearings taking public input on the CCC's latest draft of regulations. The meetings were open to the public, and full video stream of the hearings are available on the Massachusetts Cannabis Control Commission Facebook page. Dozens of people testified, and some very clear themes emerged throughout the hearings. I felt a palpable sense of frustration, but also trust in us and our willingness to listen, which I appreciate.
 
 There is a lot of integrity and transparency baked into the open-meeting structure of the Commission under the law. Our setup is designed for the five of us to have a sincere discussion of issues in public, so I won't pre-empt that by sharing my specific reactions beforehand. I'm still digesting as it is. But I do want to take a minute and reflect on the feedback we received, both for my own synthesis and so that everyone who took the time to come can know that they were heard.
 
