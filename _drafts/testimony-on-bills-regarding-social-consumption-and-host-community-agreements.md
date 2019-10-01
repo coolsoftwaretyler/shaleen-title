@@ -5,8 +5,6 @@ description: 'Tuesday, October 1, 2019, 10:00am, State House Room A-2. Submitted
   Shaleen Title, Commissioner Massachusetts Cannabis Control Commission '
 
 ---
-Testimony on Bills Regarding Social Consumption and Host Community Agreements
-
 Tuesday, October 1, 2019, 10:00am, State House Room A-2
 
 Submitted by: Shaleen Title, Commissioner
