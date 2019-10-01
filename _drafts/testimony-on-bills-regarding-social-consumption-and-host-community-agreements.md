@@ -5,17 +5,13 @@ description: 'Tuesday, October 1, 2019, 10:00am, State House Room A-2. Submitted
   Shaleen Title, Commissioner Massachusetts Cannabis Control Commission '
 
 ---
-Tuesday, October 1, 2019, 10:00am, State House Room A-2
+_Tuesday, October 1, 2019, 10:00am, State House Room A-2  
+Submitted by: Shaleen Title, Commissioner  
+Massachusetts Cannabis Control Commission  
+101 Federal Street 13th Floor  
+Boston, MA 02110_
 
-Submitted by: Shaleen Title, Commissioner
-
-Massachusetts Cannabis Control Commission
-
-101 Federal Street 13th Floor
-
-Boston, MA 02110
-
-Dear Chair Chang-Diaz, Chair Rogers, and members of the Joint Committee on Cannabis Policy:
+**Dear Chair Chang-Diaz, Chair Rogers, and members of the Joint Committee on Cannabis Policy:**
 
 Thank you for the opportunity to provide testimony on bills related to criminal justice, social equity, and municipal regulation.
 
