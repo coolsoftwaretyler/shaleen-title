@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Testimony on Bills Regarding Social Consumption and Host Community Agreements
+title: Testimony on Bills Regarding Criminal Justice, Social Equity, and Municipal
+  Regulation
 description: 'Tuesday, October 1, 2019, 10:00am, State House Room A-2. Submitted by:
   Shaleen Title, Commissioner Massachusetts Cannabis Control Commission '
 
