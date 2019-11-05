@@ -6,5 +6,7 @@ description: Memorandum of decision and order on plaintiff-intervenors' emergenc
 
 If document does not load, <a href="/wilkins-decision-ccc.pdf">download the PDF instead.</a>
 
-<iframe src="/wilkins-decision-ccc.pdf" title="Wilkins Decision CCC PDF" height="100%" width="100%" style="height:90vh"></iframe>
+<div style="height: 90vh">
+<iframe src="/wilkins-decision-ccc.pdf" title="Wilkins Decision CCC PDF" height="100%" width="100%"></iframe>
+</div>
 
