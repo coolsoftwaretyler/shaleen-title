@@ -1,5 +1,5 @@
 /* 
-    Content-Security-Policy: default-src 'none'; font-src https://fonts.gstatic.com; frame-ancestors 'self'; frame-src 'self'; img-src 'self' https://www.google-analytics.com; script-src 'self' 'unsafe-eval' 'unsafe-inline' https://www.google-analytics.com/analytics.js https://www.googletagmanager.com/gtag/js; style-src 'unsafe-inline' https://fonts.googleapis.com
+    Content-Security-Policy: default-src 'none'; font-src https://fonts.gstatic.com; frame-ancestors 'self'; frame-src 'self'; img-src 'self' https://www.google-analytics.com; script-src 'self' 'unsafe-eval' 'unsafe-inline' https://www.google-analytics.com/analytics.js https://www.googletagmanager.com/gtag/js; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com
     Referrer-Policy: same-origin
     X-Content-Type-Options: nosniff
     X-Frame-Options: sameorigin
