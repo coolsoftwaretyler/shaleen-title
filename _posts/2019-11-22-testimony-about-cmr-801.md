@@ -4,11 +4,11 @@ title: Testimony About 105 CMR 801, Severe Lung Disease Associated With Vaping P
 description: 'Friday, November 22, 2019, Submitted by: Chairman Steven Hoffman and Commissioner Shaleen Title'
 
 ---
-_Friday, November 22, 2019
 
-Department of Public Health
-250 Washington St
-Boston, MA 02108
+_Friday, November 22, 2019<br><br>
+Department of Public Health <br>
+250 Washington St <br>
+Boston, MA 02108 <br><br>
 Submitted by: Chairman Steven Hoffman and Commissioner Shaleen Title_
 
 Thank you for the opportunity to submit this testimony about 105 CMR 801, Severe Lung Disease Associated With Vaping Products. As with our verbal testimony, we submit this written testimony as two individuals, in the furtherance of our collective goal to promote the health and the well-being of the people of Massachusetts. 
