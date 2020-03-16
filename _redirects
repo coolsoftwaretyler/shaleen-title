@@ -1,11 +1,11 @@
 # Point /equity to /top-ten-equity-must-haves-legalization page. 
-/equity /top-ten-equity-must-haves-legalization
+/equity /top-ten-equity-must-haves-legalization 302!
 
 # Top ten equity must haves to blog post
-/top-ten-equity-must-haves-legalization /2019/03/16/top-ten-equity-must-haves-legalization 302
+/top-ten-equity-must-haves-legalization /2019/03/16/top-ten-equity-must-haves-legalization 302!
 # First "update" page to blog post 
-/update /2019/04/17/an-update-from-shaleen-title 302
+/update /2019/04/17/an-update-from-shaleen-title 302!
 
 # PDF filename fix 
 
-# /testimony /testimony.pdf 302
+# /testimony /testimony.pdf 302!
