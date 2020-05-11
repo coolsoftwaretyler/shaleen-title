@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Marijuana Establishment Delivery Applications Available to Economic Empowerment Applicants, Social Equity Program Participants Starting May 28
-description:
+description: The Cannabis Control Commission (Commission) will open up licensing applications to prospective Delivery-only Marijuana Establishments and certain Microbusinesses seeking Delivery Endorsements starting on Thursday, May 28, 2020.
 
 ---
 
