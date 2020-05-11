@@ -8,8 +8,9 @@ layout: default
 <div class="blog">
 	{{ content }} 
     {%- if site.news.size > 0 -%}
+    {% assign news_items = site.news | sort: 'date' | reverse %}
     <ul class="post-list">
-        {%- for post in site.news -%}
+        {%- for post in news_items -%}
         {%- unless post.category -%}
         <li>
             {%- assign date_format = "%b %-d, %Y" -%}
