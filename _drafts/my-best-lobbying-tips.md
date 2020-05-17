@@ -1,0 +1,43 @@
+---
+layout: post
+title: My Best Lobbying Tips
+description: ''
+
+---
+I was just invited to participate in a terrific Virtual Lobbying Workshop with the [Massachusetts Recreational Consumer Council](Massachusetts Recreational Consumer Council) and some great guests including Boston City Councilor [Julia Mejia](Massachusetts Recreational Consumer Council). I thought I would write out my tips here while they are fresh in my mind, because these skills are universal, regardless of topic or historical context (including the worst health crisis in 100 years). As someone who learned how to lobby in grassroots workshops and is now lobbied by the most highly-paid lobbyists in the state, I have seen that the same consistent practices are effective: be authentic, informed, and specific.
+
+To quote an MRCC workshop, the best way to come across as authentic is to be authentic! If you have a personal connection to what you're lobbying for, that's compelling. Today we were talking about Massachusetts [Senate Bill 2650](), which is currently in the Senate Ways and Means Committee and would create a social equity loan fund. If you are a person meant to benefit from the law's focus on disproportionately harmed people and you don't think it's working, or if you need a loan, or if you are otherwise connected, that's a great way to personalize the [script](https://www.facebook.com/maconsumers/photos/pb.1181231695247346.-2207520000../2891837690853396/?type=3&theater).
+
+I describe lobbying as partially about book smarts (knowing your issue and describing it concisely) and partially about emotional intelligence (making a compelling case and following up consistently without threatening or otherwise being negative). There are usually far more issues that I want to tackle than I am able to, and the constituents who are informed and specific and make a compelling case are the ones who end up being my priority.
+
+Some other tips:
+
+1. Call your representative and get 5-10 other constituents to also call on the same day as you.
+
+If you are feeling nervous because you have never called your representative before, guess what -- that can be a big advantage! If 5-10 constituents who have never called before all call on the same day about a subject, and especially if they are all speaking from the same information but authentically telling their own individual story, that is extremely powerful. It's of course helpful to have an ongoing relationship with your representative, and that should be your goal, but if you find an issue important enough to call for the first time, that's advantageous in its own way. You can email too, but calling is more effective (as someone who hates using the phone, I know that can be a painful truth, but it's a truth nonetheless).
+
+2. Be as specific as possible, ideally supporting 1 bill and up to 1-2 changes, and follow up consistently.
+
+You want to be specific so that the person who is taking notes on your call or your voicemail takes down that you are a constituent, which bill you are calling about, whether you support it or oppose it, and ideally 1-2 changes. If you ask whether they support or oppose it, it's likely that you won't get an answer immediately. You can use that as an opening to ask for a meeting so that you can tell your rep more about why the issue is important to you. If that's not possible, (which is very understandable during the COVID era), respectfully ask for a response. Then, if you're up for it, set an alarm on your phone and respectfully call to follow up every few days. 
+
+That's really it! If you only do the above steps, you're engaging as a citizen and using your voice and you should be proud of it. But, if you want to be even more effective, here are more tips:
+
+3. Watch the bill online and see when it moves to a committee, then follow up with the committee.
+
+This is time-consuming and annoying, and it's why effective lobbyists get paid for it. If you want to be just as effective, you can do it! There are websites that track bills for you and send alerts, but you can use free tools to track website changes as well. I use a tool called Visual Ping (visualping.io) to get notified every time a website changes. Most government websites are slow and clunky and not updated in a consistent way, so using a tracking tool to be notified of any change to a bill page will save you from having to check it obsessively. 
+
+Once a bill is assigned to a committee, see if your representative is on the committee. If they are, that's good news, and if they're the chair or vice-chair, you've hit the jackpot. Keep following the same advice above by getting other people to call and aiming for an ongoing relationship, but with the understanding that you can now have a much bigger impact on the bill. If your representative is not on the committee, call the chair and vice-chair of the committee anyway. It won't be as powerful, but it's still worth your time if you have the time.
+
+4. Consider asking nonprofit organizations, thought leaders, and other influential people to come out in support of the bill and encourage their networks to call. 
+
+Creating a coalition is a great way to bring new attention to a bill. It can be especially helpful to do some "power mapping" to see who decision makers are influenced by, and then target those influential organizations or people. If an issue is broadly supported by the public but isn't getting attention from decision makers, you can try putting together a sign-on letter of influential people or experts or directly affected people. Word of warning if this is your first time -- this process can be a headache and much more political than you want it to be. But it's good experience and it will make you a better organizer, a skill you'll have for life.
+
+Two last tips not directly related to trying to pass a bill:
+
+5. Even you don't get the change you wanted, it's not wasted time or energy. One of the most effective lobbying I've ever experienced was a small women-owned business who wanted women-owned businesses to be allowed into our state's Social Equity Program, which is meant for people disproportionately harmed by drug laws. She made a compelling case that businesses like hers deserved more. While we didn't make that change, she continued to follow up and when there was a motion to expedite certain applications from microbusinesses and co-ops and other groups, her lobbying was fresh in my mind and I successfully proposed adding women-owned businesses. You may not get the change you want but the person you are lobbying may still remember you when it matters.
+
+6. Last but not least, think about the concept of the Overton Window. I only learned in the last couple of years that there is a word for this, but it's a concept the cannabis movement understands intuitively. It generally refers to the window of what's considered acceptable for "respectable" people to talk about and take seriously. The trick is that what's in the window has zero to do with what's sensible, or data, or information, and everything to do with what's politically mainstream at that moment. 
+
+   Those of us in cannabis have watched medical marijuana for people with terminal illness, and then medical marijuana generally, and then decriminalizing possession, and then regulated retail sales, all come into the acceptable window of society over decades while the facts have remain unchanged. 
+
+   Outside of cannabis, it's happened recently for things that were once considered unthinkable, like universal basic income and Medicare for All, again not because any facts changed but because political circumstances changed. Soon, things like cannabis at farmers' markets and concerts and movie theaters will be squarely in that window, even though they are considered radical now. As you work on your short-term goals, consider too how you can change the Overton Window for things you support over time.
