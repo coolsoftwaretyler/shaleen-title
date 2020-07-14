@@ -1,0 +1,33 @@
+---
+layout: post
+title: A Timeline of Requests to Ask the Legislature for Equity Program Funding
+description: ''
+
+---
+At the Cannabis Control Commission meeting last week, I was accused of bringing up the topic of asking the legislature for a Social Equity and Technical Assistance fund at the last minute without allowing adequate time for preparation. Those accusations have been quoted in numerous outlets; therefore, I am posting a timeline of how long I have been raising this issue. 
+
+Here is the law passed three years ago in **2017** which says that the commission can accept donations. The Commission "shall have all the powers necessary or convenient to carry out and effectuate its purposes including, but not limited to, the power to . . . apply for and accept subventions, grants, loans, advances and _contributions of money_, property, labor or other things of value from any source, _to be held, used and applied for its purposes_."
+
+Here is an excerpt from the meeting [minutes ](https://mass-cannabis-control.com/wp-content/uploads/2018/01/2017.12.12-Meeting-Minutes.FINAL_.pdf)from two and a half years ago, **December 12, 2017**, in which I suggest that we take donations into a _dedicated fund to support our technical assistance programs_ for the time being, but that we ask the legislature to create a no-interest loan fund for applicants because I felt that would be necessary to fulfill our mandate.
+
+> Commissioner Title discussed no interest, or low interest loans and cited Oakland as an example, which has dedicated $3.4 million dollars. This idea was recommended by the Advisory Board Sub Committee and has been brought up over and over again by the public. Commissioner Title cautioned that she did not believe the Commission has authority under the Act as a Commission to create a loan fund. _She suggested that the Commission recommend this to the Legislature, that this is a need to fulfill the Commission’s mandate under the law._ 
+>
+> Commissioner Title asked Mr. Collins to comment based on his experience with Treasury if he could comment on the whether the Commission has authority under the Act to make loans, and if not,how that might be accomplished. Mr. Collins stated that from an administrative standpoint, as currently situated, he did not know that it would be possible for the Commission to essentially issue lines of credit to licensees and to applicants, manage a loan program without explicit statutory authority and then set aside funds that would be retained in a revolving status. Given the set-up of the structure of the Marijuana Regulation Fund, he did not view that as something that the Commission is capable of today. It may be something to work with the Legislature on and make sure the Commission have the authority and appropriate staff administratively to monitor that. Creditworthiness is something that the Commission would have to ascertain, making sure that folks are current on their loans, whether there’s interest rate reductions or zero interest loans, and make sure they’ve got flexibility. The Commission is not currently situated to do that. 
+>
+> Commissioner Title thanked Mr. Collins and _recommended that the Commission turn that into a proposal for the Legislature, but at this time pursue technical assistance through a designated fund._
+
+Here is the [bill](https://malegislature.gov/Bills/191/S1708) that was reviewed by our staff and filed by Senator Jason Lewis in **January 2019**, a year and a half ago, that would create a mechanism for the commission to use fines and donations to support our technical assistance program, entitled, "_An Act relative to a social equity training and technical assistance fund_."
+
+Here is the Boston Business Journal [reporting](https://www.bizjournals.com/boston/news/2019/02/21/cannabis-commission-explores-interest-free-loans.html) in **February 2019** on a presentation I gave pleading with the Commission for a course correction to allow us to meet our mandate, including _asking the legislature for funding for interest-free loans_.
+
+Here is an [Equity Work Plan](https://mass-cannabis-control.com/wp-content/uploads/Equity-Work-Plan-1.pdf) published by the Commission itself in **April 2019**, just over a year ago, which includes commitments by the chairman and staff to evaluate various models for such a program and pursue strategies relative to identifying sources of funds as well as program requirements in order to explore _formal recommendations to the Legislature addressing the creation of grant programs or interest-free loan programs for equity program participants._
+
+Here is the Boston Business Journal [reporting](reporting) in **June 2019**, a year ago, the very first time we issued a fine, that I asked the Commission to join me in requesting the legislature that we able to use the fines for our equity efforts. It was voted down 4-1 without discussion from anyone but me.
+
+> Title proposed allocating funding derived from fines to ongoing efforts to increase diversity in the industry. _But a motion to ask for legislative approval for the fines was summarily dismissed in a vote one in favor to four against, with only Title voting for the action._
+
+Here are the current [regulations](https://mass-cannabis-control.com/wp-content/uploads/2019/11/Fall_2019_Adult_Regs_500.pdf), voted on unanimously and promulgated in **November 2019**, six months ago, which reference donations to a _Social Equity Training and Technical Assistance Fund_, which we should all understand to be _a fund to accept donations and use on our technical assistance programs_. We most recently discussed during our leadership ratings agenda item in **June 2020**, one month ago, that the fund has not been created.
+
+Here is the [memo](https://www.shaleentitle.com/fines-and-donations-memo.pdf) I wrote to my fellow commissioners on **July 7, 2020**_,_ after I saw that there were $800,000 in fines on the agenda, and considered that number alongside the fact that we do not currently have a plan to support the current growth of the Social Equity Program and maintain its rate of success, nor do we have a plan for outreach or for the necessary outreach and evaluation. I wrote the memo in advance to lay out the context and ask for support in requesting the legislature to be able to apply donations and fines to these efforts through a _Social Equity Training and Technical Assistance Fund._
+
+The meeting took place two days later on **July 9, 2020**. Throughout the long discussion, not one substantive objection to the idea was raised. However, I was told that I [had not brought up the issue with enough notice](https://twitter.com/_shesthatgirl/status/1281359037674684416?s=21) and my motion failed 1-1 with 2 abstentions. 
