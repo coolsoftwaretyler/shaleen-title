@@ -4,7 +4,7 @@ title: A Timeline of Requests to Ask the Legislature for Equity Program Funding
 description: ''
 
 ---
-At the Cannabis Control Commission meeting last week, I was accused of bringing up the topic of asking the legislature for a Social Equity and Technical Assistance fund at the last minute without allowing adequate time for preparation. Those accusations have been quoted in numerous outlets; therefore, I am posting a timeline of how long I have been raising this issue.
+In response to [accusations](https://www.masslive.com/marijuana/2020/07/massachusetts-marijuana-could-fines-and-donations-support-the-states-equity-program-cannabis-regulators-say-further-discussion-needed.html) last week that I brought up the topic of asking the legislature for a Social Equity and Technical Assistance fund at the last minute without allowing adequate time for preparation, I am posting a timeline of how long I have been raising this issue.
 
 For background, the law already allows the commission to accept funds; we lack a mechanism to accept it. Here is the law passed three years ago in **2017** which says that the commission can accept donations. The Commission "shall have all the powers necessary or convenient to carry out and effectuate its purposes including, but not limited to, the power to . . . apply for and accept subventions, grants, loans, advances and _contributions of money_, property, labor or other things of value from any source, _to be held, used and applied for its purposes_."
 
