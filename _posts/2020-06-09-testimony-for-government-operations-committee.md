@@ -6,7 +6,7 @@ description: Thursday, June 4, 2020 Submitted to Lydia Edwards, Chair, Committee
 
 Dear Chair Edwards and Members of the Committee:
 
-Thank you for inviting me to submit testimony regarding the implementation of Boston’s groundbreaking ordinance to ensure equity in its local cannabis industry. I was unable to join you because the Commission met at the same time as the hearing, but I greatly appreciate the invitation to share my input with you.
+Thank you for inviting me to submit testimony regarding the implementation of Boston's groundbreaking ordinance to ensure equity in its local cannabis industry. I was unable to join you because the Commission met at the same time as the hearing, but I greatly appreciate the invitation to share my input with you.
 
 I submit this testimony in my individual capacity as a commissioner appointed for my expertise in legal, policy, and social justice issues, and based on three years of experience striving for equitable cannabis regulations and licensing.
 
