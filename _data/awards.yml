@@ -1,7 +1,4 @@
 ---
-- award_description: Six Women Shaping the Cannabis Industry, Rolling Stone
-  date: "2017"
-  highlighted: ''
 - award_description: New England Cannabis Community Lifetime Achievement Award
   date: "2020"
   highlighted: false
@@ -29,9 +26,6 @@
 - award_description: The Young Jurks Best Cannabis Guest
   date: "2019"
   highlighted: false
-- award_description: North American Cannabis Summit Keynote Speaker
-  date: "2019"
-  highlighted: false
 - award_description: Students for Sensible Drug Policy Award for Lifetime Achievement
     in Drug Policy
   date: "2017"
@@ -39,6 +33,12 @@
 - award_description: Roxbury Epicenter Community Woman Crush Wednesday
   date: "2017"
   highlighted: false
+- award_description: North American Cannabis Summit Keynote Speaker
+  date: "2019"
+  highlighted: false
+- award_description: Six Women Shaping the Cannabis Industry, Rolling Stone
+  date: "2017"
+  highlighted: ''
 - award_description: United Nations Power of Collaboration Global Summit Panelist
   date: "2017"
   highlighted: false
