@@ -1,7 +1,7 @@
 ---
 - award_description: New England Cannabis Community Lifetime Achievement Award
   date: September 16, 2020
-  highlighted: ''
+  highlighted: true
 - award_description: Worcester Business Journal 2019 Power 50
   date: "2019"
   highlighted: false
