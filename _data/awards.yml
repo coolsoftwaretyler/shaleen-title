@@ -1,7 +1,4 @@
 ---
-- award_description: Woman Uninterrupted, Women's Health Magazine
-  date: "2016"
-  highlighted: ''
 - award_description: New England Cannabis Community Lifetime Achievement Award
   date: "2020"
   highlighted: false
@@ -45,6 +42,9 @@
 - award_description: United Nations Power of Collaboration Global Summit Panelist
   date: "2017"
   highlighted: false
+- award_description: Woman Uninterrupted, Women's Health Magazine
+  date: "2016"
+  highlighted: ''
 - award_description: Students for Sensible Drug Policy Outstanding Alumnus in Service
     to Drug Policy Reform award
   date: "2016"
