@@ -11,9 +11,6 @@
 - award_description: 'Boston Magazine Power List 2019: The Powers That Will Be'
   date: "2019"
   highlighted: false
-- award_description: 'Boston Business Journal 50 Most Powerful '
-  date: "2018"
-  highlighted: false
 - award_description: New England Cannabis Community Champion in Diversity and Inclusion
   date: "2019"
   highlighted: false
@@ -25,6 +22,9 @@
   highlighted: false
 - award_description: The Young Jurks Best Cannabis Guest Award
   date: "2019"
+  highlighted: false
+- award_description: 'Boston Business Journal 50 Most Powerful '
+  date: "2018"
   highlighted: false
 - award_description: Students for Sensible Drug Policy Award for Lifetime Achievement
     in Drug Policy
