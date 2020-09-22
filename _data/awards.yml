@@ -1,8 +1,4 @@
 ---
-- award_description: Students for Sensible Drug Policy Outstanding Alumnus in Service
-    of Drug Policy Reform Award
-  date: April 3, 2016
-  highlighted: ''
 - award_description: New England Cannabis Community Lifetime Achievement Award
   date: "2020"
   highlighted: false
@@ -50,12 +46,16 @@
   date: "2016"
   highlighted: false
 - award_description: Students for Sensible Drug Policy Outstanding Alumnus in Service
-    to Drug Policy Reform Award
+    to Drug Policy Reform Award (2nd time)
   date: "2016"
   highlighted: false
 - award_description: High Times Freedom Fighter Award
   date: "2012"
   highlighted: false
+- award_description: Students for Sensible Drug Policy Outstanding Alumnus in Service
+    of Drug Policy Reform Award
+  date: April 3, 2016
+  highlighted: ''
 - award_description: Hunter S. Thompson Young Attorney Award
   date: "2012"
   highlighted: false
