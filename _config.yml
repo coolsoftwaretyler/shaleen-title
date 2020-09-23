@@ -29,7 +29,7 @@ collections:
 feed: 
   path: /feed/blog.xml
   collections: 
-    - news
+    - announcements
 include: ["_headers", "_redirects"]
 markdown: kramdown
 theme: minima

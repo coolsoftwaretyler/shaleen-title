@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Media Hits
+title: News
 ---
 <ul>
     {% for item in site.data.media_hits %}

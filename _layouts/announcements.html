@@ -3,14 +3,14 @@ layout: default
 ---
 <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p><a href="/feed/news.xml">RSS</a></p>
+    <p><a href="/feed/announcements.xml">RSS</a></p>
 </header>
 <div class="blog">
 	{{ content }} 
-    {%- if site.news.size > 0 -%}
-    {% assign news_items = site.news | sort: 'date' | reverse %}
+    {%- if site.announcements.size > 0 -%}
+    {% assign items = site.announcements | sort: 'date' | reverse %}
     <ul class="post-list">
-        {%- for post in news_items -%}
+        {%- for post in items -%}
         {%- unless post.category -%}
         <li>
             {%- assign date_format = "%b %-d, %Y" -%}
