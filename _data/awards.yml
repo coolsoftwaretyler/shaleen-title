@@ -1,8 +1,5 @@
 ---
-- award_description: ''
-  date: ''
-  highlighted: ''
-- award_description: Top 100 Marijuana Activists, Skunk Magazine
+- award_description: Commendation Award, Law Enforcement Against Prohibition
   date: "2011"
   highlighted: false
 - award_description: New England Cannabis Community Lifetime Achievement Award
@@ -65,6 +62,9 @@
 - award_description: Students for Sensible Drug Policy Outstanding Alumnus in Service
     of Drug Policy Reform Award
   date: "2012"
+  highlighted: false
+- award_description: Top 100 Marijuana Activists, Skunk Magazine
+  date: "2011"
   highlighted: false
 - award_description: Hunter S. Thompson Young Attorney Award
   date: "2012"
