@@ -22,7 +22,7 @@ I think we need to change the name of this new license type. Currently, the new 
 
 This really matters! I have a spent a lot of time over the past few years talking to local officials trying to understand why they have acted so inequitably, and it comes down to systemic bias and – crucially – confusion. We are already starting from way behind in getting municipalities to approve these types of licenses. They’re busy, distracted, and understandably don’t have time for marijuana. Confusion at the local level will KILL any chance for these businesses. I am certain of this. The last thing we need to do is name them a word that already has a definition and that doesn’t match the license.
 
-I don’t know why Delivery Retail Operator was rejected, or my other suggestion (Non-Storefront Delivery, similar to California), but if you have ideas for better names please submit them during comment. I think I had a pretty good sense of how important it is to be clear and concise to begin with, but the last three years have only taught me that clarity is way more important than I thought.
+I don’t know why Delivery Operator was rejected, or my other suggestion (Non-Storefront Delivery, similar to California), but if you have ideas for better names please submit them during comment. I think I had a pretty good sense of how important it is to be clear and concise to begin with, but the last three years have only taught me that clarity is way more important than I thought.
 
 I also suggested that we rename the Limited Delivery License to Courier License, because it’s stickier and it conveys what the license is, but I can live with Limited Delivery License.
 
