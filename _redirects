@@ -9,3 +9,7 @@
 # PDF filename fix 
 
 # /testimony /testimony.pdf 302!
+
+/news/* /announcements/:splat
+
+/media-hits/ /news-updates/
