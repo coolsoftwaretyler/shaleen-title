@@ -2,7 +2,7 @@ Prepared by [Ogden Studios](https://ogdenstudios.xyz) for [Shaleen Title](https:
 
 ## Summary 
 
-If a new developer began working on [shaleentitle.com](https://www.shaleentitle.com), these are the skills they should:
+If a new developer began working on [shaleentitle.com](https://www.shaleentitle.com), these are the skills they should have:
 
 ### Mandatory 
 
