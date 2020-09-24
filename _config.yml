@@ -24,12 +24,12 @@ github_username:  ogdenstudios
 
 # Build settings
 collections: 
-  news: 
+  announcements: 
     output: true
 feed: 
   path: /feed/blog.xml
   collections: 
-    - news
+    - announcements
 include: ["_headers", "_redirects"]
 markdown: kramdown
 theme: minima
