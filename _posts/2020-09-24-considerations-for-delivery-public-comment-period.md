@@ -10,7 +10,7 @@ As I’ve stated before, I am so grateful that with this change creating unprece
 
 But before we see any progress, we will need to implement these regulations and ESPECIALLY ensure that municipalities have all the resources and tools and information they need to get on board, or else it will never move from theory to reality. I believe that our municipal outreach on this license will be a major factor in whether it is successful or not.
 
-(_By the way, it must be unpleasant to watch proceedings with people acting as though everything is normal – it’s worth acknowledging that nothing is normal, and that with each passing month and meeting, people are closer to their boiling points for all the reasons that we have in common and all our individual reasons. It’s also worth acknowledging that the drug war harms we seek to begin repairing are very real and affect real people, and Breonna Taylor was one of them. She deserved better, and her family and friends deserve better than for the drug war to be unfolding exactly as designed. I hope it’s clear from the policy we are making that this isn’t business as usual, and that our policies and results are more important than anything any of us say. But sometimes it’s important to say something too._)
+(_By the way, it must be unpleasant to watch proceedings with people acting as though everything is normal – it’s worth acknowledging that nothing is normal, and that with each passing month and meeting, people are closer to their boiling points for all the reasons that we have in common and all our individual reasons. It’s also worth acknowledging that the drug war harms we seek to begin repairing are very real and affect real people, and Breonna Taylor was one of them. She deserved better, and her family and friends deserve better than for the drug war to be unfolding exactly as designed. I hope it’s clear from the policy we are making that this isn’t business as usual. I think our policies and results are more important than anything any of us say. But sometimes it’s important to say something too._)
 
 The writing group that wrote the draft regulations, led by Commissioner McBride, did an excellent job of handling two of the most important and outstanding issues – ensuring that there are protections against control by third-party technology platforms, and clarifying that delivery licenses that purchase at wholesale and sell to consumers are not considered Marijuana Retailers, but they do count toward a license cap (No Person or Entity Having Direct or Indirect Control in a Marijuana Retailer license shall obtain, or be granted, more than a combined total of three Marijuana Retailer Licenses and/or Wholesale Delivery Licenses). So those are dealt with.
 
@@ -42,7 +42,7 @@ I’m more comfortable with this when we are talking about flower or products cl
 
 \--
 
-I hope this was helpful for those who needed a recap, and I look forward to reading your comments. Don't send them in yet, watch MassCannabisControl.com for instructions and follow them so that your comments will be considered part of the public comment. 
+I hope this was helpful for those who needed a recap, and I look forward to reading your comments. Don't send them in yet, watch MassCannabisControl.com for instructions and follow them so that your comments will be considered part of the public comment.
 
 These issues are the most important to me, but of course everyone has their own perspective and I encourage you to watch the commission meetings and follow different organizations and stakeholders.
 
