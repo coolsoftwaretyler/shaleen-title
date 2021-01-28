@@ -4,6 +4,4 @@ title: CCC Farewell
 description: ''
 
 ---
-I am so grateful for the opportunity to have served as an inaugural commissioner from 2017-2020. This was a lovely farewell and I'm glad I got to thank so many people within the commission who shaped the Massachusetts cannabis regulatory framework for the better.
-
-<iframe src="[https://www.linkedin.com/embed/feed/update/urn:li:share:6750498309074370560](https://www.linkedin.com/embed/feed/update/urn:li:share:6750498309074370560 "https://www.linkedin.com/embed/feed/update/urn:li:share:6750498309074370560")" height="781" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+I am so grateful for the opportunity to have served as an inaugural commissioner from 2017-2020.  The Commission gave me a lovely [farewell](https://www.youtube.com/watch?v=filKU3BMdtQ&feature=youtu.be) and I'm glad I got to thank so many people within the commission who shaped the Massachusetts cannabis regulatory framework for the better. If you watch the video, I didn't have notes in my lap -- I just kept looking down because I was overwhelmed! 
