@@ -3,7 +3,7 @@ layout: home
 title: Home
 
 ---
-<aside class="home__intro"> <figure class="home__avatar"></figure></aside> Shaleen Title is an Indian-American attorney and longtime drug policy activist who is a Distinguished Cannabis Policy Practitioner in Residence at the Drug Enforcement and Policy Center of the Ohio State University Moritz College of Law. She currently serves as vice-chair of the Cannabis Regulators of Color Coalition. She is a frequent lecturer and consultant on cannabis policy and has testified in front of governmental bodies around the world about restorative justice in marijuana laws.
+<aside class="home__intro"> <figure class="home__avatar"></figure></aside> Shaleen Title is an Indian-American attorney and longtime drug policy activist who is a Distinguished Cannabis Policy Practitioner in Residence at the Drug Enforcement and Policy Center of the The Ohio State University Moritz College of Law. She currently serves as vice-chair of the Cannabis Regulators of Color Coalition. She is a frequent lecturer and consultant on cannabis policy and has testified in front of governmental bodies around the world about restorative justice in marijuana laws.
 
 From 2017-2020, she was appointed by the Massachusetts governor, attorney general, and treasurer to serve as one of five inaugural commissioners of the Cannabis Control Commission, the agency tasked with regulating legal and medical marijuana in the commonwealth. Described as “the people’s weed watchdog” in Boston Magazine’s 2019 Power List, she was widely recognized during her term for her focus on racial justice and her efforts to make the cannabis industry more fair and inclusive.
 
