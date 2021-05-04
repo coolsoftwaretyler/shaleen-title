@@ -4,11 +4,11 @@ title: Model language on ownership and control limitations
 description: ''
 
 ---
-In recent days I've been asked several times a day to meet with legislators, regulators, and activists in various states about how to write equitable legislation. Most people I talk to are familiar with the need for equity-related provisions (such as a fund for forgivable loans for capital, expungement, community reinvestment, and technical assistance, as well as ensuring that municipalities are incentivized to act equitably so that they don't undermine state-level progress).
+In recent days I've been asked to meet with legislators, regulators, and activists in many states about how to write equitable legislation. Most people I talk to are familiar with the need for equity-related provisions (such as a fund for forgivable loans for capital, expungement, community reinvestment, and technical assistance, as well as ensuring that municipalities are incentivized to act equitably so that they don't undermine state-level progress).
 
 However, far fewer people are familiar with the need to limit the number of licenses that a person or company may own or control. None of the steps above matter if, during the time it takes to work them out, other multistate corporations dominate the state's market so that there is nothing left for small businesses, POC-owned businesses, or farmers -- something that has happened in many, if not every, legal marijuana state and is becoming a bigger problem each time.
 
-Therefore, in my opinion, any state legalization bill must contain a limitation like this or else it's a dealbreaker:
+To that end, I want to share some concrete statutory and regulatory language to create such limits, using Massachusetts as a model. In my opinion, any state legalization bill must contain a limitation like this or else it's a dealbreaker:
 
 _No person or entity shall **own or control** more than 3 marijuana retailer licenses, 3 marijuana producer licenses, 3 marijuana cultivator licenses **limited to a total of** 100,000 square feet of Canopy*. (This is an adapted and combined version of the Massachusetts legalization_ [_statute_](https://malegislature.gov/Laws/SessionLaws/Acts/2017/Chapter55)_, Section 16 of Chapter 55 of the Acts of 2017, and_ [_regulations_](https://masscannabiscontrol.com/wp-content/uploads/2021/03/202101_Adult_Use_Regulations.pdf)_, 935 CMR 500.050(b)(5)._
 
