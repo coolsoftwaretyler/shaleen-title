@@ -8,5 +8,3 @@ The best way to connect with me and stay updated on my work and personal reflect
 For media requests, please send a DM on [Twitter](https://twitter.com/shaleentitle).
 
 For speaking requests, please email [booking@shaleentitle.com](booking@shaleentitle.com.).
-
-I am not able to reply to every message that I receive but I try to read them all.
