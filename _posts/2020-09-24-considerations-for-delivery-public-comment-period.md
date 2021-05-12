@@ -47,3 +47,5 @@ I hope this was helpful for those who needed a recap, and I look forward to read
 These issues are the most important to me, but of course everyone has their own perspective and I encourage you to watch the commission meetings and follow different organizations and stakeholders.
 
 PS – before anyone asks, no, I still don’t know how long I will be in this seat! I am taking it one day at a time.
+
+Test.
