@@ -2,7 +2,7 @@
 - award_description: Massachusetts House of Representatives Citation in recognition
     of over three years of dedicated and outstanding service to the Commonwealth
   date: "2021"
-  highlighted: ''
+  highlighted: false
 - award_description: New England Cannabis Community Lifetime Achievement Award
   date: "2020"
   highlighted: false
