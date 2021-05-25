@@ -1,6 +1,6 @@
 ---
-- award_description: CannabisReports Top 10 Women in Cannabis
-  date: "2020"
+- award_description: Civilized Life's 24 of the Most Influential Women in Cannabis
+  date: ''
   highlighted: ''
 - award_description: New England Cannabis Community Lifetime Achievement Award
   date: "2020"
@@ -8,6 +8,9 @@
 - award_description: Inaugural Women in Cannabis Summit Keynote Speaker
   date: "2020"
   highlighted: false
+- award_description: CannabisReports Top 10 Women in Cannabis
+  date: "2020"
+  highlighted: ''
 - award_description: 'Boston Magazine Power List 2019: The Powers That Will Be'
   date: "2019"
   highlighted: false
