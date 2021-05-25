@@ -1,10 +1,10 @@
 ---
-- award_description: Green Market Report's Most Notable Cannabis AAPI Leaders
-  date: "2021"
-  highlighted: ''
 - award_description: New England Cannabis Community Lifetime Achievement Award
   date: "2020"
   highlighted: false
+- award_description: Green Market Report's 2021 Most Notable Cannabis AAPI Leaders
+  date: "2021"
+  highlighted: ''
 - award_description: CannabisReports Top 10 Women in Cannabis
   date: "2020"
   highlighted: false
