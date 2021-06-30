@@ -1,8 +1,15 @@
 ---
+- award_description: Massachusetts House of Representatives Citation in recognition
+    of over three years of dedicated and outstanding service to the Commonwealth
+  date: "2021"
+  highlighted: false
 - award_description: New England Cannabis Community Lifetime Achievement Award
   date: "2020"
   highlighted: false
-- award_description: Inaugural Women in Cannabis Summit Keynote Speaker
+- award_description: Green Market Report's 2021 Most Notable Cannabis AAPI Leaders
+  date: "2021"
+  highlighted: false
+- award_description: CannabisReports Top 10 Women in Cannabis
   date: "2020"
   highlighted: false
 - award_description: 'Boston Magazine Power List 2019: The Powers That Will Be'
@@ -13,6 +20,12 @@
   highlighted: false
 - award_description: 'Boston Business Journal 50 Most Powerful '
   date: "2018"
+  highlighted: false
+- award_description: Inaugural Women in Cannabis Summit Keynote Speaker
+  date: "2020"
+  highlighted: false
+- award_description: Civilized Life's 24 of the Most Influential Women in Cannabis
+  date: "2020"
   highlighted: false
 - award_description: New England Cannabis Community Champion in Diversity and Inclusion
   date: "2019"
