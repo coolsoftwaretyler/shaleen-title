@@ -7,7 +7,11 @@ description: Today, former Chairman Steve Hoffman and I sent the following lette
   I recommend that you send your own letter too.
 
 ---
-Today, former Chairman Steve Hoffman and I sent the following letter to the Massachusetts legislative leaders and conference committee urging them to finish the job of passing a law for cannabis equity, following up on previous [letters](https://www.bizjournals.com/boston/news/2020/02/27/cannabis-regulators-ask-lawmakers-to-create-new.html) and [op-eds](https://www.bostonglobe.com/2020/07/17/opinion/communities-color-need-access-cannabis-economy/). We are running out of time! I recommend that you send your own letter too; you can find a sample email from Equitable Opportunities Now [here](https://mailchi.mp/d0baff5dcd65/urgent-ask-your-legislator-to-ensure-cannabis-equity-programs-are-fully-funded?e=cec5c2d108).
+Today, former Chairman Steve Hoffman and I sent the following letter to the Massachusetts legislative leaders and conference committee urging them to finish the job of passing a law for cannabis equity, following up on previous [letters](https://www.bizjournals.com/boston/news/2020/02/27/cannabis-regulators-ask-lawmakers-to-create-new.html) and [op-eds](https://www.bostonglobe.com/2020/07/17/opinion/communities-color-need-access-cannabis-economy/). 
+
+We are running out of time! I recommend that you send your own letter too; you can find a sample email from Equitable Opportunities Now [here](https://mailchi.mp/d0baff5dcd65/urgent-ask-your-legislator-to-ensure-cannabis-equity-programs-are-fully-funded?e=cec5c2d108).
+
+Here's the letter we sent:
 
 June 29, 2022
 
