@@ -1,7 +1,7 @@
 ---
 - award_description: Cambridge Equity Celebration Keynote Speaker
   date: "2022"
-  highlighted: ''
+  highlighted: false
 - award_description: Named twice to MJBizDaily's "Who's Who in Federal Marijuana Reform
     and Legalization"
   date: "2022"
