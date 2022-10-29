@@ -1,7 +1,7 @@
 ---
 - award_description: Equitable Opportunities Now 2022 Equity Champion
   date: "2022"
-  highlighted: ''
+  highlighted: false
 - award_description: Cambridge Equity Celebration Keynote Speaker
   date: "2022"
   highlighted: false
