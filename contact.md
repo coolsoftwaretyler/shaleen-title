@@ -9,4 +9,4 @@ You can also connect with me on [Instagram](https://www.instagram.com/shaleentit
 
 For media or speaking requests, please direct inquiries to booking@shaleentitle.com. I am represented by [CCMNT speakers](https://ccmntspeakers.com/project/shaleen-title/).
 
-Please note that I do not participate in cannabis events that involve Big Tobacco or their front groups.
+**Notice for event organizers**: Before submitting an inquiry, please note that I do not participate in events involving Big Tobacco or its front groups. In accordance with my values, I also do not participate in events run or sponsored by groups that oppose home-grow, file lawsuits against social equity, or advocate for criminal crackdowns on the legacy market.
