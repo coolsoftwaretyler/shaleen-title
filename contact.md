@@ -9,4 +9,4 @@ You can also connect with me on [Instagram](https://www.instagram.com/shaleentit
 
 For media or speaking requests, please direct inquiries to booking@shaleentitle.com. I am represented by [CCMNT speakers](https://ccmntspeakers.com/project/shaleen-title/).
 
-**Notice for event organizers**: Before sending a speaking request, please note that I do not participate in events involving Big Tobacco or its front groups, nor events run or sponsored by groups that oppose home-grow, file lawsuits against social equity, or advocate for criminal crackdowns on the legacy market. I encourage anyone who shares these values to consider adopting a similar policy.
+**Notice for event organizers**: Before sending a speaking request, please note that I don't attend events involving Big Tobacco or its front groups. I also don't attend events run or sponsored by groups that oppose home-grow, file lawsuits against social equity, or advocate for criminal crackdowns on the legacy market. I encourage anyone who shares these values to consider adopting a similar policy.
