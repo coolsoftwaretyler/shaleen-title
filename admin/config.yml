@@ -9,18 +9,35 @@ media_folder: "img"
 collections:
   - name: "pages"
     label: "Pages"
-    folder: "."
     create: true
-    # Allow us to exclude top level pages from Netlify CMS, like README.md
-    # https://github.com/decaporg/decap-cms/issues/2727#issuecomment-658469466
-    filter: { field: "visible", value: true }
     slug: "{{title}}.md"
-    fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Visible", name: "visible", widget: hidden, default: true }
+    files:
+      - name: "contact"
+        label: "Contact Me"
+        file: "contact.md"
+        fields:
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "page",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - name: "home"
+        label: "Home"
+        file: "index.md"
+        fields:
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "page",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description", name: "description", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
   - name: "posts"
     label: "Posts"
     folder: "_posts"
