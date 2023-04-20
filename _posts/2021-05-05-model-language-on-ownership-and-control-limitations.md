@@ -1,16 +1,17 @@
 ---
 layout: post
 title: Model language on ownership and control limitations
-description: ''
-
+description: ""
+date: 2021-05-05
 ---
+
 In recent days I've been asked to meet with legislators, regulators, and activists in many states about how to write equitable legislation. Most people I talk to are familiar with the need for equity-related provisions (such as a fund for forgivable loans for capital, expungement, community reinvestment, and technical assistance, as well as ensuring that municipalities are incentivized to act equitably so that they don't undermine state-level progress).
 
 However, far fewer people are familiar with the need to limit the number of licenses that a person or company may own or control. None of the steps above matter if, during the time it takes to work them out, other multistate corporations dominate the state's market so that there is nothing left for small businesses, POC-owned businesses, or farmers -- something that has happened in many, if not every, legal marijuana state and is becoming a bigger problem each time.
 
 To that end, I want to share some concrete statutory and regulatory language to create such limits, using Massachusetts as a model. In my opinion, any state legalization bill must contain a limitation like this or else it's a dealbreaker:
 
-_No person or entity shall **own or control** more than 3 marijuana retailer licenses, 3 marijuana producer licenses, 3 marijuana cultivator licenses **limited to a total of** 100,000 square feet of Canopy*. (This is an adapted and combined version of the Massachusetts legalization_ [_statute_](https://malegislature.gov/Laws/SessionLaws/Acts/2017/Chapter55)_, Section 16 of Chapter 55 of the Acts of 2017, and_ [_regulations_](https://masscannabiscontrol.com/wp-content/uploads/2021/03/202101_Adult_Use_Regulations.pdf)_, 935 CMR 500.050(b)(5)._
+_No person or entity shall **own or control** more than 3 marijuana retailer licenses, 3 marijuana producer licenses, 3 marijuana cultivator licenses **limited to a total of** 100,000 square feet of Canopy\*. (This is an adapted and combined version of the Massachusetts legalization_ [_statute_](https://malegislature.gov/Laws/SessionLaws/Acts/2017/Chapter55)_, Section 16 of Chapter 55 of the Acts of 2017, and_ [_regulations_](https://masscannabiscontrol.com/wp-content/uploads/2021/03/202101_Adult_Use_Regulations.pdf)_, 935 CMR 500.050(b)(5)._
 
 The list of licenses is not crucial here; you can replace the list of licenses with the appropriate list of licenses from your state. The number 3 is also not crucial; I think anywhere from 1 to 5 is reasonable. The crucial parts are having a limit, using the phrase own OR CONTROL, and defining cultivation limit with _both_ a number and total square feet of canopy (so you don't end up with 1 million-square-foot facility that supplies the entire state under one license, for example).
 
@@ -40,7 +41,7 @@ _(f) A Third-party Technology Platform Provider that possesses any financial int
 
 Here are a couple other situation-specific scenarios regarding ownership and control to keep in mind:
 
-* If your state has an economic empowerment program, social equity program, or other particular benefits for impacted communities, you want to ensure that there are some fair limits so that if a company is sold to new owners who do not meet the criteria, they will no longer enjoy the benefits. Here is some relevant language from Massachusetts which requires disclosure of all changes of ownership and control and notes that such a change may cause a loss of benefits. Note that you may want to go further, such as preventing transfers of ownership for a period of time after receiving certain benefits.
+- If your state has an economic empowerment program, social equity program, or other particular benefits for impacted communities, you want to ensure that there are some fair limits so that if a company is sold to new owners who do not meet the criteria, they will no longer enjoy the benefits. Here is some relevant language from Massachusetts which requires disclosure of all changes of ownership and control and notes that such a change may cause a loss of benefits. Note that you may want to go further, such as preventing transfers of ownership for a period of time after receiving certain benefits.
 
 _Priority Applicants Change in Ownership or Control._
 
@@ -56,11 +57,11 @@ _ii. If the qualifications are no longer are met subsequent to the approved chan
 
 _iii. The applicant may still seek approval of a change of ownership or control._
 
-* If you have a social equity program or economic empowerment program, you might want to allow participants to accept investment and sell some percentage of the company while requiring that eligible participants in the program maintain majority ownership and control. Similarly, if you offer exclusive access to certain license types or during a certain initial period to participants in a program, you might want to ensure that access is only available to businesses with majority ownership and control comprised of people in those programs. Some relevant language:
+- If you have a social equity program or economic empowerment program, you might want to allow participants to accept investment and sell some percentage of the company while requiring that eligible participants in the program maintain majority ownership and control. Similarly, if you offer exclusive access to certain license types or during a certain initial period to participants in a program, you might want to ensure that access is only available to businesses with majority ownership and control comprised of people in those programs. Some relevant language:
 
 _Delivery Operator Licenses shall be limited on an exclusive basis to businesses controlled by and with majority ownership comprised of Economic Empowerment Priority Applicants or Social Equity Program Participants for a period of 36 months from the date the first Delivery Operator Licensee receives a notice to commence operations; provided, however, that the Commission may vote to extend that period following a determination that the goal of the exclusivity period to promote and encourage full participation in the regulated Marijuana industry by people from communities that have previously been disproportionately harmed by Marijuana prohibition and enforcement of the law has not been met; and the Commission may vote to expand eligibility for Delivery Licenses during the exclusivity period pursuant to \[this section\]. The Commission shall develop criteria for evaluating whether the goals of the exclusivity period are met, which shall include, but not be limited to . . . \[see 935 500.050(11) for full criteria\]._
 
-* For delivery licenses in particular, especially if you have delivery licenses that are exclusively for social equity/economic empowerment licensees as Massachusetts does, you want to ensure that software companies cannot exercise unlawful control over delivery licensees (for example, if customers are using an app and the app is directing them to certain licensees whom the app owns, and not listing others). Here are relevant limitations on that control:
+- For delivery licenses in particular, especially if you have delivery licenses that are exclusively for social equity/economic empowerment licensees as Massachusetts does, you want to ensure that software companies cannot exercise unlawful control over delivery licensees (for example, if customers are using an app and the app is directing them to certain licensees whom the app owns, and not listing others). Here are relevant limitations on that control:
 
 _A contract between a Delivery Licensee and a Third-party Technology Platform Provider shall be negotiated and entered into on an arm's length basis. A Delivery Licensee may not accept any investment in the Delivery Licensee by a Third-party Technology Platform Provider with which they have a contract._
 

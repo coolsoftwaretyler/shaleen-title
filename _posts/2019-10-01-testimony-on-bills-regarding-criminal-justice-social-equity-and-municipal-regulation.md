@@ -1,11 +1,14 @@
 ---
 layout: post
-title: Testimony on Bills Regarding Criminal Justice, Social Equity, and Municipal
+title:
+  Testimony on Bills Regarding Criminal Justice, Social Equity, and Municipal
   Regulation
-description: 'Tuesday, October 1, 2019, 10:00am, State House Room A-2. Submitted by:
-  Shaleen Title, Commissioner Massachusetts Cannabis Control Commission '
-
+description:
+  "Tuesday, October 1, 2019, 10:00am, State House Room A-2. Submitted by:
+  Shaleen Title, Commissioner Massachusetts Cannabis Control Commission "
+date: 2019-10-01
 ---
+
 _Tuesday, October 1, 2019, 10:00am, State House Room A-2  
 Submitted by: Shaleen Title, Commissioner  
 Massachusetts Cannabis Control Commission  

@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Testimony About 105 CMR 801, Severe Lung Disease Associated With Vaping Products
-description: 'Friday, November 22, 2019, Submitted by: Chairman Steven Hoffman and
-  Commissioner Shaleen Title'
-
+description:
+  "Friday, November 22, 2019, Submitted by: Chairman Steven Hoffman and
+  Commissioner Shaleen Title"
+date: 2019-11-22
 ---
+
 _Friday, November 22, 2019<br><br>
 Department of Public Health <br>
 250 Washington St <br>

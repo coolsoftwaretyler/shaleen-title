@@ -1,11 +1,14 @@
 ---
 layout: default
 ---
+
 {{ content }}
 
 <h1>Selected Honors and Awards</h1>
 <ul>
-    {% for item in site.data.awards %}
-    <li {% if item.highlighted %} class="award--highlighted" {% endif %}><b>{{ item.date }}:</b> {{ item.award_description }}</li>
-    {% endfor %}
+  {% for item in site.data.awards.awards %}
+  <li {% if item.highlighted %} class="award--highlighted" {% endif %}>
+    <b>{{ item.date }}:</b> {{ item.award_description }}
+  </li>
+  {% endfor %}
 </ul>

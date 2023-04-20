@@ -3,13 +3,14 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Top 10 Equity Must-Haves in Any Legalization Bill 
+title: Top 10 Equity Must-Haves in Any Legalization Bill
 description: As promised, I am sharing my top ten equity must-haves for any state cannabis legalization bill. I rewrite these every time I give a speech in another state, because every day I learn more and they evolve.
+visible: true
 ---
 
 ![Image from the CT General Assembly Commission on Equity and Opportunity](img/event-picture-2019.jpg)
 
-*Originally shared with the Connecticut General Assembly Commission on Equity and Opportunity.*
+_Originally shared with the Connecticut General Assembly Commission on Equity and Opportunity._
 
 As promised, I am sharing my top ten equity must-haves for any state cannabis legalization bill. I rewrite these every time I give a speech in another state, because every day I learn more and they evolve.
 
@@ -20,7 +21,6 @@ Disclaimer: These are my subjective opinions based on experience as both an acti
 2. Automatic expungement for cannabis convictions, in the same law at the same time as legalization. Period.
 
 3. Ensure as a non-negotiable, never-expiring statutory requirement that people from disproportionately harmed communities are represented at the very top of the regulating agency. (Yes, there are plenty who are qualified.)
-    
 4. Ensure that the regulating agency is diverse, independent, subject to full transparency, and appointed by different people. This is something I’m incredibly proud of in MA and I recommend adopting it. Brand new agencies take time/resources to start up, but it’s worth it.
 
 5. Dedicate tax revenue to be reinvested into disproportionately harmed communities. Give it teeth; do not allow that revenue to be "subject to appropriation" and do not require bureaucratic application processes that only privileged communities will be able to tap into. Sidenote: the [Minority Cannabis Business Association](https://minoritycannabis.org/) [model state bill](https://minoritycannabis.org/wp-content/uploads/2018/02/MCBA-ModelLegislation_2017.pdf), which I worked on before becoming a commissioner, creates an Office of Justice Reinvestment to fairly distribute such revenue.
