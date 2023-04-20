@@ -9,7 +9,7 @@ media_folder: "img"
 collections:
   - name: "pages"
     label: "Pages"
-    folder: "./"
+    folder: "."
     create: true
     # Allow us to exclude top level pages from Netlify CMS, like README.md
     # https://github.com/decaporg/decap-cms/issues/2727#issuecomment-658469466
