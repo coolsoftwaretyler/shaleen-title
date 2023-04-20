@@ -1,11 +1,14 @@
 ---
 layout: post
-title: Testimony in Support of S. 2643, An Act Establishing a Massachusetts Paycheck
+title:
+  Testimony in Support of S. 2643, An Act Establishing a Massachusetts Paycheck
   Protection Program (PPP)
-description: Tuesday, May 5, 2020, Submitted to Senate Chair Diana DiZoglio and House
+description:
+  Tuesday, May 5, 2020, Submitted to Senate Chair Diana DiZoglio and House
   Chair Edward F. Coppinger Joint Committee on Community Development and Small Businesses
-
+date: 2020-05-05
 ---
+
 Dear Chair DiZoglio, Chair Coppinger, and members of the Joint Committee,
 
 Thank you for this opportunity to submit testimony in support of S.2643, An Act Establishing a Massachusetts Paycheck Protection Program (PPP), which would offer financial support to small businesses that are currently ineligible for the comparable federal PPP administered by the Small Business Administration (SBA). This testimony is submitted in my individual capacity as a commissioner of the Massachusetts Cannabis Control Commission to outline the importance of this bill to the many small businesses in the Massachusetts adult-use cannabis industry.

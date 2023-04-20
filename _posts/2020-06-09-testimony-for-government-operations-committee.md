@@ -2,6 +2,7 @@
 layout: post
 title: Testimony for a Hearing Reviewing the Implementation of the Ordinance Establishing the Equitable Regulation of the Cannabis Industry in the City of Boston
 description: Thursday, June 4, 2020 Submitted to Lydia Edwards, Chair, Committee on Government Operations
+date: 2020-06-09
 ---
 
 Dear Chair Edwards and Members of the Committee:
@@ -12,7 +13,7 @@ I submit this testimony in my individual capacity as a commissioner appointed fo
 
 My observation of the words and actions of the City Council, Office of Emerging Industries, and forthcoming Cannabis Board continues to give me confidence that you will fulfill your vision. Based on experience, my current recommendation is to focus and invest resources in the following areas: communication; predictability; and policies to keep barriers to entry to the minimum necessary to ensure the health and safety of your residents.
 
-**Communication** 
+**Communication**
 
 One of the biggest drivers of inequity and frustration among applicants is a lack of understanding of their status in the process, specifically a feeling of being in the dark. If I could go back in time, I would have focused earlier on a method for applicants to see their status on demand. We are building a tool which allows applicants and the public to see what phase the applicant is in and their position in the queue to be reviewed.
 
@@ -42,9 +43,9 @@ On the other end of the spectrum, consider maintaining an equal number of delive
 
 Lastly, the Commission wants to assist municipalities in creating equitable cannabis policies. It developed a [Guidance on Municipal Equity](https://cccmass-my.sharepoint.com/personal/shaleen_title_cccmass_com/Documents/Guidance%20on%20Municipal%20Equity) for precisely this purpose. Some relevant highlights to consider:
 
-* *According to feedback from the Cannabis Advisory Board Subcommittee on Market Participation and public feedback to the Commission, real estate is one of the primary hurdles for small businesses and businesses owned by people from marginalized communities. When municipalities impose overly strict zoning rules and large buffer zones, they sharply limit the number of parcels available to potential operators. This favors large businesses with substantial financial resources that can outbid other potential operators and overpay for a lease or purchase of property—often at the expense of smaller, local companies—and tends to direct large rewards to a small handful of landlords and property owners.*
-*  *. . . Therefore, the Commission’s recommendation is to zone cannabis businesses based on the nature of their primary business operations. It may be most appropriate, for example, for cultivators, microbusinesses, and cooperatives to be zoned, respectively, as agricultural, industrial, and manufacturing businesses, while cannabis retailers would be zoned in the same manner as any other retailer. Manufacturers, as defined as a Marijuana Establishments, may be appropriate for multiple zones, as they may encompass small microbusinesses or companies creating edibles in commercial kitchens.*
-* *State law establishes a 500-foot buffer around K-12 schools. A municipality may choose to reduce the size of that buffer. It is unclear whether buffer zones around other uses, such as parks, are legally permissible. The Commission suggests that additional buffer zones or separation requirements may not be necessary and cautions communities against acting arbitrarily.*
+- _According to feedback from the Cannabis Advisory Board Subcommittee on Market Participation and public feedback to the Commission, real estate is one of the primary hurdles for small businesses and businesses owned by people from marginalized communities. When municipalities impose overly strict zoning rules and large buffer zones, they sharply limit the number of parcels available to potential operators. This favors large businesses with substantial financial resources that can outbid other potential operators and overpay for a lease or purchase of property—often at the expense of smaller, local companies—and tends to direct large rewards to a small handful of landlords and property owners._
+- _. . . Therefore, the Commission’s recommendation is to zone cannabis businesses based on the nature of their primary business operations. It may be most appropriate, for example, for cultivators, microbusinesses, and cooperatives to be zoned, respectively, as agricultural, industrial, and manufacturing businesses, while cannabis retailers would be zoned in the same manner as any other retailer. Manufacturers, as defined as a Marijuana Establishments, may be appropriate for multiple zones, as they may encompass small microbusinesses or companies creating edibles in commercial kitchens._
+- _State law establishes a 500-foot buffer around K-12 schools. A municipality may choose to reduce the size of that buffer. It is unclear whether buffer zones around other uses, such as parks, are legally permissible. The Commission suggests that additional buffer zones or separation requirements may not be necessary and cautions communities against acting arbitrarily._
 
 Thank you for your consideration and for the leadership you have shown. I am available to discuss this in more detail and to answer any questions this committee may have.
 

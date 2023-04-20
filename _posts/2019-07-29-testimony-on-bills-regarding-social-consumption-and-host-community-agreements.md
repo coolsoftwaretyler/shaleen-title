@@ -1,10 +1,12 @@
 ---
 layout: post
-title: 'Testimony on Bills Regarding Social Consumption and Host Community Agreements '
-description: 'Submitted by: Shaleen Title, Commissioner Massachusetts Cannabis Control
-  Commission 101 Federal Street 13th Floor Boston, MA 02110'
-
+title: "Testimony on Bills Regarding Social Consumption and Host Community Agreements "
+description:
+  "Submitted by: Shaleen Title, Commissioner Massachusetts Cannabis Control
+  Commission 101 Federal Street 13th Floor Boston, MA 02110"
+date: 2019-07-29
 ---
+
 _This document has been formatted for web. To view and/or download the original PDF, visit_ [https://www.shaleentitle.com/testimony.pdf](https://www.shaleentitle.com/testimony.pdf "https://www.shaleentitle.com/testimony.pdf")
 
 Submitted by: Shaleen Title, Commissioner Massachusetts Cannabis Control Commission 101 Federal Street 13th Floor Boston, MA 02110
@@ -19,7 +21,7 @@ Along with Chairman Hoffman, I spent several months working collaboratively with
 
 Some of the key issues discussed by the committee include preventing underage access, preventing impaired driving, a strong focus on staff training to detect impairment and minimize overserving, ensuring consumers are adequately educated to minimize overconsumption, and ensuring that employees are protected from secondhand smoke.
 
-Our group’s memo is attached. The Commission voted to include social consumption regulations in its draft regulations published July 2, 2019. As noted in the working group’s memo and in the Commission meeting minutes, no part of the pilot program will be able to move forward unless a legislative change is made to clarify how municipalities may permit on-site consumption. 
+Our group’s memo is attached. The Commission voted to include social consumption regulations in its draft regulations published July 2, 2019. As noted in the working group’s memo and in the Commission meeting minutes, no part of the pilot program will be able to move forward unless a legislative change is made to clarify how municipalities may permit on-site consumption.
 
 ## Support of S. 1126 and H. 3536
 

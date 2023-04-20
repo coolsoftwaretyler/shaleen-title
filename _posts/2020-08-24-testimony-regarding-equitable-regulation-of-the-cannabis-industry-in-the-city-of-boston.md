@@ -2,6 +2,7 @@
 layout: post
 title: Testimony Regarding Equitable Regulation of the Cannabis Industry in the City of Boston
 description: Thursday, August 20, 2020, 3:30pm. Submitted to Lydia Edwards, Chair, Committee on Government Operations
+date: 2020-08-24
 ---
 
 Dear Chair Edwards and Members of the Committee:
@@ -11,15 +12,15 @@ Thank you for inviting me to submit comments regarding amendments to the ordinan
 I submit these comments in my individual capacity as a commissioner appointed for my expertise in legal, policy, and social justice issues, and based on three years of experience striving for equitable cannabis regulations and licensing. My feedback focuses on three areas: (1) support for an equitable ratio within holders of each license type, (2) support for establishing a predictable process and timeline for host community agreements, and (3) recommendations
 regarding delivery licenses.
 
-__Equitable Ratio Within License Types__
+**Equitable Ratio Within License Types**
 
 In previous comments to this committee, I suggested that refining the ratio of equity to non-equity applicants to maintain equal numbers of similarly situated businesses would maximize the impact of this policy. The proposal to maintain the ratio for each license type issued by the CCC is a simple way to do that. I support the proposed revision to 8-13.3 to maintain that ratio for each cannabis business license type.
 
-__Predictable Process and Timeline for Host Community Agreements__
+**Predictable Process and Timeline for Host Community Agreements**
 
 Without commenting on the process to draft and execute host community agreements, I want to support adding as much predictability and transparency to that process, particularly as it relates to a set timeline. That part of the process tends to be the sticking point for applicants across the state. It is more difficult for smaller applicants and equity applicants to absorb the costs of uncertainty around the timeline. For these reasons, I support the changes to 8-13.7 providing a more specific timeline for the drafting and execution of the host community agreement.
 
-__Delivery__
+**Delivery**
 
 The Cannabis Control Commission is considering public comment regarding changes to its delivery license and will provide clarity about any changes to the public as soon as they are made. I welcome this committee's feedback on the license type as we consider making changes.
 

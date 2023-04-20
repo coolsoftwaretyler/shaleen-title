@@ -1,0 +1,71 @@
+backend:
+  name: git-gateway
+  branch: master
+
+local_backend: true
+
+media_folder: "img"
+collections:
+  - name: "pages"
+    label: "Pages"
+    folder: "./"
+    create: true
+    # Allow us to exclude top level pages from Netlify CMS, like README.md
+    # https://github.com/decaporg/decap-cms/issues/2727#issuecomment-658469466
+    filter: { field: "visible", value: true }
+    slug: "{{title}}.md"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Visible", name: "visible", widget: hidden, default: true }
+  - name: "posts"
+    label: "Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}.md"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Description",
+          name: "description",
+          widget: "string",
+          required: false,
+        }
+      - { name: date, label: Date, widget: date }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "awards"
+    label: "Awards"
+    files:
+      - name: "awards"
+        label: "Awards"
+        file: "_data/awards.yml"
+        fields:
+          - label: "Awards"
+            name: "awards"
+            widget: "list"
+            fields:
+              - {
+                  label: "Award Description",
+                  name: "award_description",
+                  widget: "string",
+                }
+              - { label: "Date", name: "date", widget: "string" }
+              - { label: "Highlighted", name: "highlighted", widget: "boolean" }
+  - name: "media-hits"
+    label: "Media Hits"
+    files:
+      - name: "media-hits"
+        label: "Media Hits"
+        file: "_data/media_hits.yml"
+        fields:
+          - label: "Media Hits"
+            name: "media_hits"
+            widget: "list"
+            fields:
+              - { label: "Description", name: "description", widget: "string" }
+              - { label: "Link", name: "link", widget: "string" }
+              - { label: "Date", name: "media_date", widget: "string" }
+              - { label: "Year", name: "year", widget: "string" }

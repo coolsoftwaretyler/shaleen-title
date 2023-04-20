@@ -1,8 +1,9 @@
 ---
 layout: home
 title: Home
-
+visible: true
 ---
+
 <aside class="home__intro"> <figure class="home__avatar"></figure></aside>Shaleen Title is an Indian-American attorney and longtime drug policy activist who has been writing, passing, and implementing equitable cannabis laws for over 20 years. She is a former top regulator for the state of Massachusetts, where she served as commissioner of the Cannabis Control Commission from 2017 to 2020. She is the author of [“Fair and Square: How to Effectively Incorporate Social Equity Into Cannabis Laws and Regulations”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3978766) and [“Bigger is Not Better: Preventing Monopolies in the National Cannabis Market.”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4018493)
 
 Currently, her primary focus is running the nonprofit think tank [Parabola Center](https://www.parabolacenter.com/), which pushes for cannabis policies to protect people rather than corporate profits. Since 2021, she has also served as Distinguished Cannabis Policy Practitioner in Residence at The Ohio State University Moritz College of Law’s Drug Enforcement and Policy Center. She is a founding member of the Cannabis Regulators of Color Coalition.

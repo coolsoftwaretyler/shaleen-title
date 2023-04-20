@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Recap of 8/14 and 8/15 Hearings
-description: ''
-
+description: ""
+date: 2019-08-16
 ---
-Along with my fellow commissioners, I spent the past two days in  Boston and Springfield hearings taking public input on the CCC's latest draft of regulations. The meetings were open to the public, and full video stream of the hearings are available on the Massachusetts Cannabis Control Commission Facebook page. Dozens of people testified, and some very clear themes emerged throughout the hearings. I felt a palpable sense of frustration, but also trust in us and our willingness to listen, which I appreciate.
+
+Along with my fellow commissioners, I spent the past two days in Boston and Springfield hearings taking public input on the CCC's latest draft of regulations. The meetings were open to the public, and full video stream of the hearings are available on the Massachusetts Cannabis Control Commission Facebook page. Dozens of people testified, and some very clear themes emerged throughout the hearings. I felt a palpable sense of frustration, but also trust in us and our willingness to listen, which I appreciate.
 
 There is a lot of integrity and transparency baked into the open-meeting structure of the Commission under the law. Our setup is designed for the five of us to have a sincere discussion of issues in public, so I won't pre-empt that by sharing my specific reactions beforehand. I'm still digesting as it is. But I do want to take a minute and reflect on the feedback we received, both for my own synthesis and so that everyone who took the time to come can know that they were heard.
 
@@ -50,7 +51,7 @@ There were many other topics raised, and surely several more will come up when w
 
 A couple last notes:
 
-* Accessibility -- There was a particularly effective demonstration that we need to do better in terms of accessibility at our hearings. It took courage and I commend it.
-* Congressman Barney Frank -- The most fun part of the hearing was when Congressman Frank opened his testimony by presenting a copy of "The Marijuana De-Control Act," a bill he filed in December 1972, and said, "I told you so!"
-* Testimony Prep -- I know there were multiple testimony preparation workshops. I dropped by one briefly and heard the advice, "The best way to appear authentic is to be authentic". I love that! Thank you to everyone who took the time to train others on how to become informed and engaged. I encourage more people to do this.
-* Remember, it’s always a feedback period in some manner. Our formal public comment period ended tonight, but if you have further comments, there's no reason why you can't still send them in even if they won't be considered part of the formal comments. Also, you can send me your feedback anytime, not just when there are drafts being reviewed.
+- Accessibility -- There was a particularly effective demonstration that we need to do better in terms of accessibility at our hearings. It took courage and I commend it.
+- Congressman Barney Frank -- The most fun part of the hearing was when Congressman Frank opened his testimony by presenting a copy of "The Marijuana De-Control Act," a bill he filed in December 1972, and said, "I told you so!"
+- Testimony Prep -- I know there were multiple testimony preparation workshops. I dropped by one briefly and heard the advice, "The best way to appear authentic is to be authentic". I love that! Thank you to everyone who took the time to train others on how to become informed and engaged. I encourage more people to do this.
+- Remember, it’s always a feedback period in some manner. Our formal public comment period ended tonight, but if you have further comments, there's no reason why you can't still send them in even if they won't be considered part of the formal comments. Also, you can send me your feedback anytime, not just when there are drafts being reviewed.

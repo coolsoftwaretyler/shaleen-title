@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 'Testimony Regarding Medical and Research Bills'
-description: ''
-
+title: "Testimony Regarding Medical and Research Bills"
+description: ""
+date: 2021-06-30
 ---
+
 The video of my testimony in front of the Massachusetts Joint Committee on Cannabis Policy in support of veteran access to medical cannabis, an exclusivity period for medical cannabis businesses, and further data collection on public health impacts can be found [here](https://www.facebook.com/100009397287681/videos/182703290470577/) and my written testimony is below. Written testimony to the committee will be accepted online until July 13 (details are available on the committee page [here](https://malegislature.gov/Events/Hearings/Detail/3791)).
 
 Testimony Regarding Medical and Research Bills

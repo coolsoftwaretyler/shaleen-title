@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Testimony Regarding Decriminalization  
-description: ''
+title: Testimony Regarding Decriminalization
+description: ""
+date: 2021-09-27
 ---
+
 Testimony Regarding Decriminalization
 
 Monday, September 27, 2021 9:00am
@@ -24,4 +26,4 @@ The other argument people sometimes make in defense of our current drug laws is 
 
 The last thing people say when they wish to continue criminalizing and controlling people who use drugs is that we don’t have the necessary funds to offer support services. In Massachusetts, this is false. The Massachusetts marijuana market surpassed [$2 billion](https://masscannabiscontrol.com/2021/09/massachusetts-marijuana-establishments-surpass-2-billion-in-gross-sales/) this month, with the state collecting 17% in total taxes. The public cannot see where that money is going, but out of the appropriations we can [follow](https://www.masslive.com/marijuana/2020/08/heres-where-marijuana-tax-revenue-has-gone-in-massachusetts.html), the vast majority is already being allocated to the Bureau of Substance Addiction Services. In other words, a mechanism to fund substance abuse services through the state’s rapidly growing cannabis tax revenue already exists. What’s required now is to remove the criminal penalties for drug possession and replace them with access to support services.
 
-More than a hundred years ago, Massachusetts was the first state in the country to criminalize cannabis, which it called “Indian hemp.” Whether a substance is criminalized has nothing to do with science, evidence, or how dangerous the substance is. It has to do with whether that drug was associated with Indigenous or Indian or Chinese or Mexican or other cultures in a way that could be used to scapegoat and subjugate Black and Brown people. When we acknowledge that, we can understand why, decades later, every study on the subject consistently [shows](https://masscannabiscontrol.com/document/a-baseline-review-and-assessment-of-cannabis-use-and-public-safety-2/) that drug laws have been and continue to be enforced with massive racial disparities. These disparities have deep lasting consequences for communities for color both nationally and in Massachusetts. Handcuffs and cages should never have been brought into the equation for people who use and possess drugs. They are not tools of rehabilitation. The only reason they were was so they could be used as a tool to control and harm people of color. You now have the opportunity to right that generations-old wrong. 
+More than a hundred years ago, Massachusetts was the first state in the country to criminalize cannabis, which it called “Indian hemp.” Whether a substance is criminalized has nothing to do with science, evidence, or how dangerous the substance is. It has to do with whether that drug was associated with Indigenous or Indian or Chinese or Mexican or other cultures in a way that could be used to scapegoat and subjugate Black and Brown people. When we acknowledge that, we can understand why, decades later, every study on the subject consistently [shows](https://masscannabiscontrol.com/document/a-baseline-review-and-assessment-of-cannabis-use-and-public-safety-2/) that drug laws have been and continue to be enforced with massive racial disparities. These disparities have deep lasting consequences for communities for color both nationally and in Massachusetts. Handcuffs and cages should never have been brought into the equation for people who use and possess drugs. They are not tools of rehabilitation. The only reason they were was so they could be used as a tool to control and harm people of color. You now have the opportunity to right that generations-old wrong.

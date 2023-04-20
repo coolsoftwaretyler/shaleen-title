@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Recap of CCC 6/25 Meeting
-description: ''
-
+description: ""
+date: 2019-06-26
 ---
+
 Today was a marathon meeting! There are several [good](https://www.bostonglobe.com/news/marijuana/2019/06/25/regulators-inch-closer-approving-marijuana-delivery-cafes/IEpPSc4a0Sf8P9yyvNi9QI/story.html) [articles](https://www.masslive.com/news/2019/06/surveillance-home-delivery-product-bans-massachusetts-marijuana-regulators-grapple-with-tough-issues-as-they-rewrite-rules.html) [up](https://www.gloucestertimes.com/news/local_news/ccc-poised-to-release-updated-pot-sale-rules/article_b1f86053-b379-5823-9f23-cf126a0e6848.html) [already](https://www.boston25news.com/news/cannabis-cafes-are-coming-to-massachusetts/961416299). I thought it would be a good time to do an old-fashioned blog post laying out the key takeaways from today's discussion. Although it became heated at certain points, those points were largely inconsequential and as far as the major policy decisions were concerned, I'm proud of the discussion we had today and the collaborative result. I think we all got to something we can live with. For full context, you can find the livestream on the [Massachusetts Cannabis Control Commission Facebook page](https://m.facebook.com/Massachusetts-Cannabis-Control-Commission-2085850278302810/).
 
 We went through the following policy areas in detail, working from excerpts of the draft regulations. These excerpts we discussed will be public shortly, if they aren't already. The full set of draft regulations will be discussed at our next meeting this Thursday June 27 (see [MassCannabisControl.com](https://mass-cannabis-control.com/) for info). That draft will be open for public comment, subject to changes based on that comment, and then finalized.
