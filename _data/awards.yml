@@ -1,11 +1,11 @@
 awards:
+  - award_description: High Times 5 Inspirational Women in Cannabis
+    date: "2023"
+    highlighted: false
   - award_description: Cannabis Now Magazine Inaugural 40 Under 40 Honoree
     date: "2022"
     highlighted: false
   - award_description: "Equitable Opportunities Now 2022 EON Equity Champion "
-    date: "2022"
-    highlighted: false
-  - award_description: Big Hope Project Cambridge Equity Celebration Keynote Speaker
     date: "2022"
     highlighted: false
   - award_description: MJBizDaily "Who's Who in Federal Marijuana Reform and Legalization"
@@ -14,8 +14,7 @@ awards:
   - award_description: Boston Business Journal 40 Under 40 Honoree
     date: "2021"
     highlighted: false
-  - award_description:
-      Massachusetts Senate and House of Representatives Citations
+  - award_description: Massachusetts Senate and House of Representatives Citations
       in recognition of over three years of dedicated and outstanding service to
       the Commonwealth
     date: "2021"
@@ -24,9 +23,6 @@ awards:
     date: "2021"
     highlighted: false
   - award_description: Green Market Report's 2021 Most Notable Cannabis AAPI Leaders
-    date: "2021"
-    highlighted: false
-  - award_description: 'New York "Legacy to Legal" Keynote Speaker '
     date: "2021"
     highlighted: false
   - award_description: New England Cannabis Community Lifetime Achievement Award
